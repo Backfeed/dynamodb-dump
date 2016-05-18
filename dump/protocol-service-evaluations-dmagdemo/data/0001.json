@@ -1,0 +1,414 @@
+{
+  "Count": 24, 
+  "Items": [
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "01127c1a-db2e-4dde-b8bf-d5d3809e263a"
+      }, 
+      "userId": {
+        "S": "0c73a4c2-9ae6-4a9f-8598-b30fd8d4eca7"
+      }, 
+      "id": {
+        "S": "2b77dcde-6c5b-449f-bbcb-a76623651446"
+      }, 
+      "createdAt": {
+        "N": "1459847912399"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "d4520837-22e2-4574-a721-07d548d7e404"
+      }, 
+      "userId": {
+        "S": "210ff348-a6e4-4902-bb90-174121b3e535"
+      }, 
+      "id": {
+        "S": "64f77122-00bd-41d4-98b0-ccfdd1614448"
+      }, 
+      "createdAt": {
+        "N": "1460551794493"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "153baa98-a091-4150-908d-3038228a823d"
+      }, 
+      "userId": {
+        "S": "10ffd68e-198c-41c5-bf67-c6e2a5583d76"
+      }, 
+      "id": {
+        "S": "9ec2b485-29e2-496b-92a7-525a893cda66"
+      }, 
+      "createdAt": {
+        "N": "1459854208301"
+      }
+    }, 
+    {
+      "value": {
+        "N": "0"
+      }, 
+      "contributionId": {
+        "S": "d4520837-22e2-4574-a721-07d548d7e404"
+      }, 
+      "userId": {
+        "S": "076cccf7-2f3e-4f9a-bd95-55ed020a508f"
+      }, 
+      "id": {
+        "S": "b48efb0d-cb2c-449d-a04b-5c553422481c"
+      }, 
+      "createdAt": {
+        "N": "1459853604320"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "199f53da-482a-48df-8266-048335ee81f2"
+      }, 
+      "userId": {
+        "S": "2d324904-8934-43e6-9639-e7b2fa5e092b"
+      }, 
+      "id": {
+        "S": "177e4548-47d2-4f4a-bac9-025a49d8bd21"
+      }, 
+      "createdAt": {
+        "N": "1460882163066"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "b5378293-cfc5-471f-ad10-6b69520237c5"
+      }, 
+      "userId": {
+        "S": "ea0d7851-190e-4807-8ce2-e3852b41d77e"
+      }, 
+      "id": {
+        "S": "80e11835-9a45-45c2-b11c-b64b95d8959d"
+      }, 
+      "createdAt": {
+        "N": "1460885968050"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "de2360a2-48c0-4cdd-84bf-3a224ad29b27"
+      }, 
+      "userId": {
+        "S": "e41430bc-893d-4fa7-85a7-ba335dda9829"
+      }, 
+      "id": {
+        "S": "0524e5c0-b05e-4e6e-aa19-d47714f60f70"
+      }, 
+      "createdAt": {
+        "N": "1460391284871"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "d4520837-22e2-4574-a721-07d548d7e404"
+      }, 
+      "userId": {
+        "S": "2d324904-8934-43e6-9639-e7b2fa5e092b"
+      }, 
+      "id": {
+        "S": "77c1a22e-3cb2-4c12-9f8b-29058932b848"
+      }, 
+      "createdAt": {
+        "N": "1460664632776"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "0ef09b3a-24fc-44d1-943d-53e3b78a177e"
+      }, 
+      "userId": {
+        "S": "e41430bc-893d-4fa7-85a7-ba335dda9829"
+      }, 
+      "id": {
+        "S": "a1c3f7c8-3acf-4a89-aa23-179227fa2e50"
+      }, 
+      "createdAt": {
+        "N": "1460290080704"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "199f53da-482a-48df-8266-048335ee81f2"
+      }, 
+      "userId": {
+        "S": "ea0d7851-190e-4807-8ce2-e3852b41d77e"
+      }, 
+      "id": {
+        "S": "8608e42c-d2ea-48b1-b015-2298a68813b0"
+      }, 
+      "createdAt": {
+        "N": "1460885637070"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "d4520837-22e2-4574-a721-07d548d7e404"
+      }, 
+      "userId": {
+        "S": "10ffd68e-198c-41c5-bf67-c6e2a5583d76"
+      }, 
+      "id": {
+        "S": "cbd7dcfd-2f42-463e-9a2a-80fc8b342ef1"
+      }, 
+      "createdAt": {
+        "N": "1460826191703"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "153baa98-a091-4150-908d-3038228a823d"
+      }, 
+      "userId": {
+        "S": "2d324904-8934-43e6-9639-e7b2fa5e092b"
+      }, 
+      "id": {
+        "S": "dad81745-fa6f-4d9e-b1ff-0f9f538ce50b"
+      }, 
+      "createdAt": {
+        "N": "1460664673756"
+      }
+    }, 
+    {
+      "value": {
+        "N": "0"
+      }, 
+      "contributionId": {
+        "S": "199f53da-482a-48df-8266-048335ee81f2"
+      }, 
+      "userId": {
+        "S": "3ac7bf86-3a98-453e-ad58-761342be921e"
+      }, 
+      "id": {
+        "S": "77f1e73d-73a3-416f-9487-c6579a10502a"
+      }, 
+      "createdAt": {
+        "N": "1460889998648"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "f99d9397-b7d1-4a5a-bd58-261f622ae8ef"
+      }, 
+      "userId": {
+        "S": "e41430bc-893d-4fa7-85a7-ba335dda9829"
+      }, 
+      "id": {
+        "S": "4bebb00c-2c6a-47ec-860f-7b6212743461"
+      }, 
+      "createdAt": {
+        "N": "1460291384344"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "153baa98-a091-4150-908d-3038228a823d"
+      }, 
+      "userId": {
+        "S": "e41430bc-893d-4fa7-85a7-ba335dda9829"
+      }, 
+      "id": {
+        "S": "66ee4a7c-7060-4884-80fb-c7035873779a"
+      }, 
+      "createdAt": {
+        "N": "1460290040107"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "199f53da-482a-48df-8266-048335ee81f2"
+      }, 
+      "userId": {
+        "S": "10ffd68e-198c-41c5-bf67-c6e2a5583d76"
+      }, 
+      "id": {
+        "S": "4760dd69-55fe-4f98-8a2c-bfd5ef84c2eb"
+      }, 
+      "createdAt": {
+        "N": "1460886119515"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "e020fa3f-ff31-4a04-aa24-4a3bc7debd2c"
+      }, 
+      "userId": {
+        "S": "e41430bc-893d-4fa7-85a7-ba335dda9829"
+      }, 
+      "id": {
+        "S": "48cab968-69b8-4f44-87ac-5e613782a88d"
+      }, 
+      "createdAt": {
+        "N": "1460297192960"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "199f53da-482a-48df-8266-048335ee81f2"
+      }, 
+      "userId": {
+        "S": "b10bd822-3a20-48c4-a8fd-117e989fab83"
+      }, 
+      "id": {
+        "S": "b6e5f7ac-2570-49f5-a871-66d3a7b59b4d"
+      }, 
+      "createdAt": {
+        "N": "1460987113447"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "f726d77f-7142-4d41-884b-9db282b74a36"
+      }, 
+      "userId": {
+        "S": "e41430bc-893d-4fa7-85a7-ba335dda9829"
+      }, 
+      "id": {
+        "S": "e8433855-6f14-40ac-8460-65f7537b86a7"
+      }, 
+      "createdAt": {
+        "N": "1460290109663"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "27f14e73-009b-4f94-bf9e-672ede83a4ec"
+      }, 
+      "userId": {
+        "S": "e41430bc-893d-4fa7-85a7-ba335dda9829"
+      }, 
+      "id": {
+        "S": "f7369517-3f6a-444b-9476-660e67fcea15"
+      }, 
+      "createdAt": {
+        "N": "1460379868028"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "0cdd33a9-ec8c-4b1a-916a-4da7d0c86be9"
+      }, 
+      "userId": {
+        "S": "e41430bc-893d-4fa7-85a7-ba335dda9829"
+      }, 
+      "id": {
+        "S": "e10278a4-a330-4aa8-b18d-1acb228b75ae"
+      }, 
+      "createdAt": {
+        "N": "1460297135506"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "7eaf7f58-79a7-43c2-a6dc-3cdccb11d8ec"
+      }, 
+      "userId": {
+        "S": "e41430bc-893d-4fa7-85a7-ba335dda9829"
+      }, 
+      "id": {
+        "S": "38c411fc-e6ee-41b9-8f03-f9f851fc5ff4"
+      }, 
+      "createdAt": {
+        "N": "1460626712643"
+      }
+    }, 
+    {
+      "value": {
+        "N": "0"
+      }, 
+      "contributionId": {
+        "S": "d4520837-22e2-4574-a721-07d548d7e404"
+      }, 
+      "userId": {
+        "S": "e41430bc-893d-4fa7-85a7-ba335dda9829"
+      }, 
+      "id": {
+        "S": "877375d2-86a4-485d-b9cd-fb39e1666359"
+      }, 
+      "createdAt": {
+        "N": "1460900169867"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "0cdd33a9-ec8c-4b1a-916a-4da7d0c86be9"
+      }, 
+      "userId": {
+        "S": "10ffd68e-198c-41c5-bf67-c6e2a5583d76"
+      }, 
+      "id": {
+        "S": "aa06fcef-f35c-4a2a-b0c7-2a249a25f51b"
+      }, 
+      "createdAt": {
+        "N": "1460288773146"
+      }
+    }
+  ], 
+  "ScannedCount": 24
+}

@@ -1,0 +1,27 @@
+{
+  "Table": {
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/slant-biddings-dev", 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "id", 
+        "AttributeType": "S"
+      }
+    ], 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 1, 
+      "ReadCapacityUnits": 1
+    }, 
+    "TableSizeBytes": 1348, 
+    "TableName": "slant-biddings-dev", 
+    "TableStatus": "ACTIVE", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "id"
+      }
+    ], 
+    "ItemCount": 19, 
+    "CreationDateTime": 1452097257.025
+  }
+}

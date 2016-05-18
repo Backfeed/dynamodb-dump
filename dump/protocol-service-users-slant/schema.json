@@ -1,0 +1,33 @@
+{
+  "Table": {
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-users-slant", 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "id", 
+        "AttributeType": "S"
+      }
+    ], 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 1, 
+      "ReadCapacityUnits": 1
+    }, 
+    "TableSizeBytes": 279, 
+    "TableName": "protocol-service-users-slant", 
+    "TableStatus": "ACTIVE", 
+    "StreamSpecification": {
+      "StreamViewType": "NEW_AND_OLD_IMAGES", 
+      "StreamEnabled": true
+    }, 
+    "LatestStreamLabel": "2016-03-03T16:24:52.311", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "id"
+      }
+    ], 
+    "ItemCount": 3, 
+    "CreationDateTime": 1457021726.933, 
+    "LatestStreamArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-users-slant/stream/2016-03-03T16:24:52.311"
+  }
+}

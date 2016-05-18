@@ -1,0 +1,27 @@
+{
+  "Table": {
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-biddings-jelle3", 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "id", 
+        "AttributeType": "S"
+      }
+    ], 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 1, 
+      "ReadCapacityUnits": 1
+    }, 
+    "TableSizeBytes": 82, 
+    "TableName": "protocol-service-biddings-jelle3", 
+    "TableStatus": "ACTIVE", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "id"
+      }
+    ], 
+    "ItemCount": 1, 
+    "CreationDateTime": 1459275235.812
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Table": {
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/slant-users-dev", 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "id", 
+        "AttributeType": "S"
+      }
+    ], 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 1, 
+      "ReadCapacityUnits": 1
+    }, 
+    "TableSizeBytes": 7394, 
+    "TableName": "slant-users-dev", 
+    "TableStatus": "ACTIVE", 
+    "StreamSpecification": {
+      "StreamViewType": "NEW_AND_OLD_IMAGES", 
+      "StreamEnabled": true
+    }, 
+    "LatestStreamLabel": "2016-01-06T17:52:44.630", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "id"
+      }
+    ], 
+    "ItemCount": 84, 
+    "CreationDateTime": 1452097259.443, 
+    "LatestStreamArn": "arn:aws:dynamodb:us-east-1:051563103010:table/slant-users-dev/stream/2016-01-06T17:52:44.630"
+  }
+}

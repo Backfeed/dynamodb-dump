@@ -1,0 +1,159 @@
+{
+  "Table": {
+    "GlobalSecondaryIndexes": [
+      {
+        "IndexSizeBytes": 3979, 
+        "IndexName": "evaluations-contributionId-createdAt", 
+        "Projection": {
+          "ProjectionType": "ALL"
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "contributionId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "createdAt"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/slant-evaluations-v1p1/index/evaluations-contributionId-createdAt", 
+        "ItemCount": 20
+      }, 
+      {
+        "IndexSizeBytes": 3639, 
+        "IndexName": "evaluations-biddingId-value", 
+        "Projection": {
+          "ProjectionType": "INCLUDE", 
+          "NonKeyAttributes": [
+            "contributionId", 
+            "userId"
+          ]
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "biddingId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "value"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/slant-evaluations-v1p1/index/evaluations-biddingId-value", 
+        "ItemCount": 20
+      }, 
+      {
+        "IndexSizeBytes": 3979, 
+        "IndexName": "evaluations-userId-createdAt", 
+        "Projection": {
+          "ProjectionType": "ALL"
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "userId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "createdAt"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/slant-evaluations-v1p1/index/evaluations-userId-createdAt", 
+        "ItemCount": 20
+      }, 
+      {
+        "IndexSizeBytes": 3979, 
+        "IndexName": "evaluations-biddingId-userId", 
+        "Projection": {
+          "ProjectionType": "ALL"
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "biddingId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "userId"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/slant-evaluations-v1p1/index/evaluations-biddingId-userId", 
+        "ItemCount": 20
+      }
+    ], 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "biddingId", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "contributionId", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "createdAt", 
+        "AttributeType": "N"
+      }, 
+      {
+        "AttributeName": "id", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "userId", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "value", 
+        "AttributeType": "N"
+      }
+    ], 
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/slant-evaluations-v1p1", 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 5, 
+      "ReadCapacityUnits": 5
+    }, 
+    "TableSizeBytes": 3979, 
+    "TableName": "slant-evaluations-v1p1", 
+    "TableStatus": "ACTIVE", 
+    "StreamSpecification": {
+      "StreamViewType": "NEW_AND_OLD_IMAGES", 
+      "StreamEnabled": true
+    }, 
+    "LatestStreamLabel": "2016-01-06T15:05:45.300", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "id"
+      }
+    ], 
+    "ItemCount": 20, 
+    "CreationDateTime": 1452018185.015, 
+    "LatestStreamArn": "arn:aws:dynamodb:us-east-1:051563103010:table/slant-evaluations-v1p1/stream/2016-01-06T15:05:45.300"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "Table": {
+    "GlobalSecondaryIndexes": [
+      {
+        "IndexSizeBytes": 5964, 
+        "IndexName": "contributions-userId-createdAt", 
+        "Projection": {
+          "ProjectionType": "ALL"
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "userId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "createdAt"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/slant-contributions-v1p1/index/contributions-userId-createdAt", 
+        "ItemCount": 42
+      }, 
+      {
+        "IndexSizeBytes": 5964, 
+        "IndexName": "contributions-biddingId-createdAt", 
+        "Projection": {
+          "ProjectionType": "ALL"
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "biddingId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "createdAt"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/slant-contributions-v1p1/index/contributions-biddingId-createdAt", 
+        "ItemCount": 42
+      }
+    ], 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "biddingId", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "createdAt", 
+        "AttributeType": "N"
+      }, 
+      {
+        "AttributeName": "id", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "userId", 
+        "AttributeType": "S"
+      }
+    ], 
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/slant-contributions-v1p1", 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 3, 
+      "ReadCapacityUnits": 3
+    }, 
+    "TableSizeBytes": 5964, 
+    "TableName": "slant-contributions-v1p1", 
+    "TableStatus": "ACTIVE", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "id"
+      }
+    ], 
+    "ItemCount": 42, 
+    "CreationDateTime": 1452018190.621
+  }
+}

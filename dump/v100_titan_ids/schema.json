@@ -1,0 +1,35 @@
+{
+  "Table": {
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/v100_titan_ids", 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "hk", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "rk", 
+        "AttributeType": "S"
+      }
+    ], 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 10, 
+      "ReadCapacityUnits": 10
+    }, 
+    "TableSizeBytes": 2464, 
+    "TableName": "v100_titan_ids", 
+    "TableStatus": "ACTIVE", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "hk"
+      }, 
+      {
+        "KeyType": "RANGE", 
+        "AttributeName": "rk"
+      }
+    ], 
+    "ItemCount": 22, 
+    "CreationDateTime": 1450612905.023
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Count": 1, 
+  "Items": [
+    {
+      "tokens": {
+        "N": "11"
+      }, 
+      "biddingCount": {
+        "N": "0"
+      }, 
+      "reputation": {
+        "N": "0.200776"
+      }, 
+      "id": {
+        "S": "f5c8b6d0-9360-4500-bdd4-1e3e461fb2d8"
+      }, 
+      "createdAt": {
+        "N": "1454523764531"
+      }
+    }
+  ], 
+  "ScannedCount": 1
+}

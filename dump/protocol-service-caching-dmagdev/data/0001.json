@@ -1,0 +1,14 @@
+{
+  "Count": 1, 
+  "Items": [
+    {
+      "theValue": {
+        "N": "1793.959075048505353"
+      }, 
+      "type": {
+        "S": "totalRepInSystem"
+      }
+    }
+  ], 
+  "ScannedCount": 1
+}

@@ -1,0 +1,34 @@
+{
+  "Count": 2, 
+  "Items": [
+    {
+      "biddingId": {
+        "S": "dc596e5b-4a21-4e22-a959-9fc4fe2574d1"
+      }, 
+      "userId": {
+        "S": "3332740e-b0e7-472e-9ee9-9c882646a022"
+      }, 
+      "id": {
+        "S": "f166e639-1cde-4577-9612-0de700b75b7d"
+      }, 
+      "createdAt": {
+        "N": "1454523766647"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "dc596e5b-4a21-4e22-a959-9fc4fe2574d1"
+      }, 
+      "userId": {
+        "S": "2b85ad67-89e6-4364-b57f-5f02b68276ad"
+      }, 
+      "id": {
+        "S": "4c82893e-8bd2-4620-ae6f-e9b93da02f71"
+      }, 
+      "createdAt": {
+        "N": "1454523766865"
+      }
+    }
+  ], 
+  "ScannedCount": 2
+}

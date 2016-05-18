@@ -1,0 +1,20 @@
+{
+  "Count": 1, 
+  "Items": [
+    {
+      "url": {
+        "S": "https://www.google.de/?gws_rd=ssl"
+      }, 
+      "submitterId": {
+        "S": "d83bdba2-5860-49cc-927b-4876b125109d"
+      }, 
+      "tag": {
+        "S": "zzz"
+      }, 
+      "id": {
+        "S": "b6ee1f1c-bcc8-4c29-92e4-98a1b097170a"
+      }
+    }
+  ], 
+  "ScannedCount": 1
+}

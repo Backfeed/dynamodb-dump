@@ -1,0 +1,91 @@
+{
+  "Table": {
+    "GlobalSecondaryIndexes": [
+      {
+        "IndexSizeBytes": 11679, 
+        "IndexName": "contributions-userId-createdAt", 
+        "Projection": {
+          "ProjectionType": "ALL"
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "userId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "createdAt"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-contributions-dmagdemo/index/contributions-userId-createdAt", 
+        "ItemCount": 73
+      }, 
+      {
+        "IndexSizeBytes": 11679, 
+        "IndexName": "contributions-biddingId-createdAt", 
+        "Projection": {
+          "ProjectionType": "ALL"
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "biddingId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "createdAt"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-contributions-dmagdemo/index/contributions-biddingId-createdAt", 
+        "ItemCount": 73
+      }
+    ], 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "biddingId", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "createdAt", 
+        "AttributeType": "N"
+      }, 
+      {
+        "AttributeName": "id", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "userId", 
+        "AttributeType": "S"
+      }
+    ], 
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-contributions-dmagdemo", 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 3, 
+      "ReadCapacityUnits": 3
+    }, 
+    "TableSizeBytes": 11679, 
+    "TableName": "protocol-service-contributions-dmagdemo", 
+    "TableStatus": "ACTIVE", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "id"
+      }
+    ], 
+    "ItemCount": 73, 
+    "CreationDateTime": 1459337682.383
+  }
+}

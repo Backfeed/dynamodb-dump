@@ -1,0 +1,35 @@
+{
+  "Table": {
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/v100_system_properties", 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "hk", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "rk", 
+        "AttributeType": "S"
+      }
+    ], 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 10, 
+      "ReadCapacityUnits": 10
+    }, 
+    "TableSizeBytes": 7794, 
+    "TableName": "v100_system_properties", 
+    "TableStatus": "ACTIVE", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "hk"
+      }, 
+      {
+        "KeyType": "RANGE", 
+        "AttributeName": "rk"
+      }
+    ], 
+    "ItemCount": 64, 
+    "CreationDateTime": 1450612894.524
+  }
+}

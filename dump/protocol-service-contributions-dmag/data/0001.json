@@ -1,0 +1,4052 @@
+{
+  "Count": 289, 
+  "Items": [
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "2611ecd6-5d3e-42d7-a270-6968275fa73d"
+      }, 
+      "id": {
+        "S": "ff8c48f7-4760-4f2a-8148-5924e0425850"
+      }, 
+      "createdAt": {
+        "N": "1457631997785"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "d7e200d9-3ff4-4928-ac86-2e13ed7201ad"
+      }, 
+      "createdAt": {
+        "N": "1458060700317"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "427a1924-446f-41b0-b572-24117ec20573"
+      }, 
+      "id": {
+        "S": "e99bbc68-f9b9-4561-83a9-837eae307e73"
+      }, 
+      "createdAt": {
+        "N": "1457968242671"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "4693271e-dd00-41cf-af1d-c04ac55359f7"
+      }, 
+      "userId": {
+        "S": "eeaa7ac1-517b-4f77-bbae-421f5706c892"
+      }, 
+      "id": {
+        "S": "ce22a5a9-8b56-43a1-86ca-76f09e884ccd"
+      }, 
+      "createdAt": {
+        "N": "1458642437623"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "aec1aea8-163d-4686-997c-e406827dcbb2"
+      }, 
+      "id": {
+        "S": "6e1dc750-b51f-4709-8cd8-2033df284efb"
+      }, 
+      "createdAt": {
+        "N": "1457607619655"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "34a8b731-33c0-4041-806b-ae5d871e3d3e"
+      }, 
+      "createdAt": {
+        "N": "1457970563031"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d45ec15c-988f-47ec-b0b9-842d7deefa88"
+      }, 
+      "userId": {
+        "S": "be878ad8-b15c-4dd4-b30e-f7dbdbdb18e8"
+      }, 
+      "id": {
+        "S": "d987d93c-75e2-41d6-9a7a-b139df597c90"
+      }, 
+      "createdAt": {
+        "N": "1458556158281"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "b2c78e14-6231-4df0-b2a6-92690f842aef"
+      }, 
+      "id": {
+        "S": "5521b3e5-7041-4650-bf00-a2c4d4b72132"
+      }, 
+      "createdAt": {
+        "N": "1457631994782"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "74ba4294-3530-46d1-a68e-59bcdb7da5c7"
+      }, 
+      "userId": {
+        "S": "b4420d12-7af2-444b-bbf3-117da7833d60"
+      }, 
+      "id": {
+        "S": "b3810993-25b2-4cde-b399-e0a562e20d73"
+      }, 
+      "createdAt": {
+        "N": "1459094080216"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "e79e2927-3a41-4f30-91d1-9f20acad0294"
+      }, 
+      "id": {
+        "S": "eea637f6-9244-4fd5-a4fb-d992fecce01c"
+      }, 
+      "createdAt": {
+        "N": "1457970530214"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "cd417708-deaa-4cf9-8989-4bcb59bab67b"
+      }, 
+      "id": {
+        "S": "7962dc41-dc02-4053-8d82-95b35b0e0979"
+      }, 
+      "createdAt": {
+        "N": "1458723665126"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "userId": {
+        "S": "40c37c65-9189-4b4d-96cd-198c5908ea42"
+      }, 
+      "id": {
+        "S": "b4d2ecca-1e1e-493f-ba02-f7ec18358417"
+      }, 
+      "createdAt": {
+        "N": "1459443549484"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "be878ad8-b15c-4dd4-b30e-f7dbdbdb18e8"
+      }, 
+      "id": {
+        "S": "a79ee74b-782a-4380-b173-cb66e5ce5098"
+      }, 
+      "createdAt": {
+        "N": "1458555329521"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "aec1aea8-163d-4686-997c-e406827dcbb2"
+      }, 
+      "id": {
+        "S": "e41306b8-d9d0-48b8-95c5-34fbb5108c8d"
+      }, 
+      "createdAt": {
+        "N": "1457607623148"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "458af8b8-a73e-4146-844e-0915d2f23143"
+      }, 
+      "id": {
+        "S": "0c5ff3df-f7f2-4388-aeec-5798d511ed49"
+      }, 
+      "createdAt": {
+        "N": "1459087228874"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "be878ad8-b15c-4dd4-b30e-f7dbdbdb18e8"
+      }, 
+      "id": {
+        "S": "edd124ca-27e2-4a2b-8200-af9ed29fd88f"
+      }, 
+      "createdAt": {
+        "N": "1458555336781"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "d640a73f-fc90-4f5a-bf06-a0136bd8d052"
+      }, 
+      "id": {
+        "S": "72723253-0877-4138-977b-58dc157cf5ce"
+      }, 
+      "createdAt": {
+        "N": "1458723655414"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "77000a83-ae38-465b-a8de-ca9d1ed37830"
+      }, 
+      "id": {
+        "S": "48519001-401f-4883-9982-409e299bab3e"
+      }, 
+      "createdAt": {
+        "N": "1457968243447"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "2611ecd6-5d3e-42d7-a270-6968275fa73d"
+      }, 
+      "id": {
+        "S": "95dd976c-4ae8-4a9e-9bbb-7fd34260a899"
+      }, 
+      "createdAt": {
+        "N": "1457631998597"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "1162e82f-2b3d-437d-843a-0300411a97ce"
+      }, 
+      "id": {
+        "S": "54da35b6-dd5a-46e8-bfb2-3a78a8a1ce41"
+      }, 
+      "createdAt": {
+        "N": "1457631997125"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "fb64f3ce-cb11-49bb-b7b6-965f654c6c97"
+      }, 
+      "id": {
+        "S": "1ffffc37-fcac-4015-be12-618038502a02"
+      }, 
+      "createdAt": {
+        "N": "1458222513015"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "6adbf41a-7afe-46b9-9d05-b773cb3b67db"
+      }, 
+      "id": {
+        "S": "eceb548c-e2e7-4677-b6c9-bef36ce424ec"
+      }, 
+      "createdAt": {
+        "N": "1457607618871"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "e149e5dd-a905-45bd-afa9-a63a4228fed7"
+      }, 
+      "id": {
+        "S": "ae6f7388-a984-4bce-b68d-d66e5913075c"
+      }, 
+      "createdAt": {
+        "N": "1458555337238"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "31970005-6f4e-4271-9f33-842cc5fff978"
+      }, 
+      "id": {
+        "S": "5c21783a-445b-4f0c-b82e-53c6f2cb6a68"
+      }, 
+      "createdAt": {
+        "N": "1458222498718"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "2611ecd6-5d3e-42d7-a270-6968275fa73d"
+      }, 
+      "id": {
+        "S": "3fd16d69-5be6-43af-8ff9-f24af18741c8"
+      }, 
+      "createdAt": {
+        "N": "1457631994553"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "10a23ed4-397c-4320-b6d4-de164839fc6f"
+      }, 
+      "id": {
+        "S": "2db7ba82-5c71-4694-a0f4-1555222bf06d"
+      }, 
+      "createdAt": {
+        "N": "1457617193050"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "e79e2927-3a41-4f30-91d1-9f20acad0294"
+      }, 
+      "id": {
+        "S": "108edf05-93a7-4533-ad5f-d5586a7c2935"
+      }, 
+      "createdAt": {
+        "N": "1457970560652"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "e149e5dd-a905-45bd-afa9-a63a4228fed7"
+      }, 
+      "id": {
+        "S": "03864468-57d4-4113-9726-af81469cbefc"
+      }, 
+      "createdAt": {
+        "N": "1458555352462"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "72029f78-864f-4083-9386-64506a6d5b90"
+      }, 
+      "id": {
+        "S": "db4b374d-9b27-4f01-99b4-094583cbff68"
+      }, 
+      "createdAt": {
+        "N": "1457970558488"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "cf1c25c1-c302-4e92-99a6-b3287c2297a1"
+      }, 
+      "id": {
+        "S": "9e86bf13-7daa-462f-84a6-84b6423e0e12"
+      }, 
+      "createdAt": {
+        "N": "1457968239663"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "c55d2b34-6182-40c8-b3aa-d4b7943f100e"
+      }, 
+      "id": {
+        "S": "d5755381-4c64-4f81-90db-edc3d5db2b82"
+      }, 
+      "createdAt": {
+        "N": "1457970528340"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "4693271e-dd00-41cf-af1d-c04ac55359f7"
+      }, 
+      "userId": {
+        "S": "ac9143ae-16bd-4610-87b9-0bd535cdfeb2"
+      }, 
+      "id": {
+        "S": "0d28ff17-c9bd-4040-8a98-b6878168621c"
+      }, 
+      "createdAt": {
+        "N": "1458642520821"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "4693271e-dd00-41cf-af1d-c04ac55359f7"
+      }, 
+      "userId": {
+        "S": "f08b0795-21e1-48b4-ba7f-c221468be272"
+      }, 
+      "id": {
+        "S": "bdb5017a-abd1-487f-a0e2-d4fbc9a7af35"
+      }, 
+      "createdAt": {
+        "N": "1458642522788"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "2611ecd6-5d3e-42d7-a270-6968275fa73d"
+      }, 
+      "id": {
+        "S": "ab578da7-ab37-46b2-8c90-d11bcec60bd4"
+      }, 
+      "createdAt": {
+        "N": "1457631994097"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "userId": {
+        "S": "40c37c65-9189-4b4d-96cd-198c5908ea42"
+      }, 
+      "id": {
+        "S": "1bf32ad6-aea1-4b10-8791-c848439cf3db"
+      }, 
+      "createdAt": {
+        "N": "1458639983411"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "2611ecd6-5d3e-42d7-a270-6968275fa73d"
+      }, 
+      "id": {
+        "S": "cc3a50f4-e4a5-494f-963b-9ee074c227d7"
+      }, 
+      "createdAt": {
+        "N": "1457631998375"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d45ec15c-988f-47ec-b0b9-842d7deefa88"
+      }, 
+      "userId": {
+        "S": "6a09d6e8-8d21-44de-9d62-488806a8d11c"
+      }, 
+      "id": {
+        "S": "043c341c-7d3d-46ea-8499-d692e334d79d"
+      }, 
+      "createdAt": {
+        "N": "1458556164854"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "3e030eaa-ca53-4b9f-99b8-c0158d0da6ca"
+      }, 
+      "id": {
+        "S": "4295c8f0-75c3-40b6-a1f1-f41f7d3aa741"
+      }, 
+      "createdAt": {
+        "N": "1457631997337"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "31970005-6f4e-4271-9f33-842cc5fff978"
+      }, 
+      "id": {
+        "S": "c1724d71-329f-4c02-bf87-cbb8c3ac9f01"
+      }, 
+      "createdAt": {
+        "N": "1458226170236"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "3a30e753-b2a6-4939-a062-082fbbbc1913"
+      }, 
+      "id": {
+        "S": "0179dbf1-d9fb-4318-9006-4268f2f18d0d"
+      }, 
+      "createdAt": {
+        "N": "1458222503604"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "f4d9e967-74fd-455d-8d31-0cf00d964e66"
+      }, 
+      "createdAt": {
+        "N": "1458062112239"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "be878ad8-b15c-4dd4-b30e-f7dbdbdb18e8"
+      }, 
+      "id": {
+        "S": "b7b35f9e-70b8-4b13-b5b6-8d1a5f4b11cb"
+      }, 
+      "createdAt": {
+        "N": "1458555334858"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "4aef15f4-b712-43c6-a98c-c40d4daf6fad"
+      }, 
+      "id": {
+        "S": "130a8ca5-437d-4f5a-9fa0-d3806a2d956a"
+      }, 
+      "createdAt": {
+        "N": "1458222505560"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "3875a814-5d7e-43d3-8e0e-056b58982aa3"
+      }, 
+      "id": {
+        "S": "fe5ab388-8145-48f5-90d8-1e911beae873"
+      }, 
+      "createdAt": {
+        "N": "1457970559866"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "bc7ffe47-74b5-41f6-9c0b-deaea89fad8f"
+      }, 
+      "userId": {
+        "S": "25dc3071-426e-429a-bd34-62070aaf9d87"
+      }, 
+      "id": {
+        "S": "58ad9b0b-ad0c-4488-a5a4-51c46035e3ba"
+      }, 
+      "createdAt": {
+        "N": "1457120558139"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "cd417708-deaa-4cf9-8989-4bcb59bab67b"
+      }, 
+      "id": {
+        "S": "2e81b91e-1c23-4a99-aa8d-e94399ea0a2f"
+      }, 
+      "createdAt": {
+        "N": "1458723656168"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "cd4e9317-7336-4e85-a7b1-eb6001ee62a2"
+      }, 
+      "userId": {
+        "S": "60c698cd-a8e8-4631-ae2c-15bc04ab6813"
+      }, 
+      "id": {
+        "S": "d6ce526b-a1a7-4258-b269-4b3f8591a040"
+      }, 
+      "createdAt": {
+        "N": "1458643487675"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "74ba4294-3530-46d1-a68e-59bcdb7da5c7"
+      }, 
+      "userId": {
+        "S": "ce71b1a2-72ae-4b60-b484-0d91cb742cf6"
+      }, 
+      "id": {
+        "S": "486df65a-e2a9-408c-a5c3-a28b34a10e02"
+      }, 
+      "createdAt": {
+        "N": "1459094081237"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "77000a83-ae38-465b-a8de-ca9d1ed37830"
+      }, 
+      "id": {
+        "S": "8970cc6f-cf45-4d09-b894-0d10c09fab7a"
+      }, 
+      "createdAt": {
+        "N": "1457968244986"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "4693271e-dd00-41cf-af1d-c04ac55359f7"
+      }, 
+      "userId": {
+        "S": "f08b0795-21e1-48b4-ba7f-c221468be272"
+      }, 
+      "id": {
+        "S": "0dcd5ca7-447d-4bd6-847d-07d71d86de41"
+      }, 
+      "createdAt": {
+        "N": "1458642523875"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "fb64f3ce-cb11-49bb-b7b6-965f654c6c97"
+      }, 
+      "id": {
+        "S": "58a44650-9198-49d9-93b5-e41acd8c1ebb"
+      }, 
+      "createdAt": {
+        "N": "1458222508449"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "dfc78e2f-4815-469c-93ee-e2d5870f46e0"
+      }, 
+      "id": {
+        "S": "fb8ea36b-a836-4ba9-86b8-ccc11aec4bcb"
+      }, 
+      "createdAt": {
+        "N": "1457607613203"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "aec1aea8-163d-4686-997c-e406827dcbb2"
+      }, 
+      "id": {
+        "S": "7aff49a1-a822-41aa-8c2b-520588efcc1f"
+      }, 
+      "createdAt": {
+        "N": "1457607621152"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "292cda86-0c79-4e6a-a0b3-1a1f0c1f6607"
+      }, 
+      "id": {
+        "S": "8ac96cb9-d13a-4cc4-8850-c9b0c1f5794a"
+      }, 
+      "createdAt": {
+        "N": "1457607625658"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "bc7ffe47-74b5-41f6-9c0b-deaea89fad8f"
+      }, 
+      "userId": {
+        "S": "ef2fc478-3879-46fe-8b2e-7a0616b89be7"
+      }, 
+      "id": {
+        "S": "b77c18b8-42c2-48d3-97be-bc9500ee5ae6"
+      }, 
+      "createdAt": {
+        "N": "1457120559570"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "98f2d9a8-e8de-4a58-b2f1-36f3d2d44333"
+      }, 
+      "userId": {
+        "S": "d7841706-224d-4f28-ab6a-cc387ff6f474"
+      }, 
+      "id": {
+        "S": "ee31515c-2152-404c-b4d0-0479ecfb82b0"
+      }, 
+      "createdAt": {
+        "N": "1458222477018"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "77000a83-ae38-465b-a8de-ca9d1ed37830"
+      }, 
+      "id": {
+        "S": "3efa9433-c067-4b6e-aa16-9d9902d7963f"
+      }, 
+      "createdAt": {
+        "N": "1457968245793"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "e149e5dd-a905-45bd-afa9-a63a4228fed7"
+      }, 
+      "id": {
+        "S": "329c03de-14f3-488e-8a86-4555ad5eed68"
+      }, 
+      "createdAt": {
+        "N": "1458555332458"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "07679143-441d-4fa4-bf20-2c7a629f1742"
+      }, 
+      "createdAt": {
+        "N": "1457970560753"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "cf1c25c1-c302-4e92-99a6-b3287c2297a1"
+      }, 
+      "id": {
+        "S": "60c375a5-51fa-4139-938d-dd26d30a0e5a"
+      }, 
+      "createdAt": {
+        "N": "1457968245284"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "aec1aea8-163d-4686-997c-e406827dcbb2"
+      }, 
+      "id": {
+        "S": "ad8895ed-b5dd-4d85-ada9-c0d940be9483"
+      }, 
+      "createdAt": {
+        "N": "1457607622400"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "e149e5dd-a905-45bd-afa9-a63a4228fed7"
+      }, 
+      "id": {
+        "S": "f4037b03-db47-4889-b9aa-b37a178bf9ee"
+      }, 
+      "createdAt": {
+        "N": "1458555330999"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "3a30e753-b2a6-4939-a062-082fbbbc1913"
+      }, 
+      "id": {
+        "S": "3d3611e9-19b0-4890-8e6e-73458a201d4b"
+      }, 
+      "createdAt": {
+        "N": "1458222502974"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "6adbf41a-7afe-46b9-9d05-b773cb3b67db"
+      }, 
+      "id": {
+        "S": "cfb73f58-0186-428d-b40b-65b0fd957522"
+      }, 
+      "createdAt": {
+        "N": "1457607629502"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "f6c4dc1d-28a9-4de4-832f-ed1f342ee336"
+      }, 
+      "id": {
+        "S": "f2522a21-cd6f-4084-a9c8-daf0e89f5c49"
+      }, 
+      "createdAt": {
+        "N": "1458222510665"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "userId": {
+        "S": "40c37c65-9189-4b4d-96cd-198c5908ea42"
+      }, 
+      "id": {
+        "S": "ca60c08e-b38d-46b5-80e3-ee90ea33269e"
+      }, 
+      "createdAt": {
+        "N": "1458222100929"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "d60fcfa3-69f1-42a7-a45c-1ae9e6741181"
+      }, 
+      "id": {
+        "S": "923b3e3d-0fb2-4f5a-bb83-165af4b7f0e1"
+      }, 
+      "createdAt": {
+        "N": "1457968241072"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "aec1aea8-163d-4686-997c-e406827dcbb2"
+      }, 
+      "id": {
+        "S": "295a49dc-17ec-4dbd-95ed-dba4dfcc6b0b"
+      }, 
+      "createdAt": {
+        "N": "1457607620157"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "6adbf41a-7afe-46b9-9d05-b773cb3b67db"
+      }, 
+      "id": {
+        "S": "24789ba3-2e00-43c8-b569-2218d3ae8a9d"
+      }, 
+      "createdAt": {
+        "N": "1457607630013"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "512868e8-12ff-400f-8fa1-1b33a5201eeb"
+      }, 
+      "id": {
+        "S": "bd5f6f1d-24e8-41ac-ae7f-b3b504eb56f0"
+      }, 
+      "createdAt": {
+        "N": "1458555333368"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "e149e5dd-a905-45bd-afa9-a63a4228fed7"
+      }, 
+      "id": {
+        "S": "5aeddfe2-5d17-4e54-9a3d-0cd5b3c9d601"
+      }, 
+      "createdAt": {
+        "N": "1458555338195"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "d60fcfa3-69f1-42a7-a45c-1ae9e6741181"
+      }, 
+      "id": {
+        "S": "c8e3f56c-4d22-444f-a133-1ed2c7ae6168"
+      }, 
+      "createdAt": {
+        "N": "1457968240954"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "e149e5dd-a905-45bd-afa9-a63a4228fed7"
+      }, 
+      "id": {
+        "S": "61ebac93-626d-4a9a-95e1-9c996f25611c"
+      }, 
+      "createdAt": {
+        "N": "1458555338648"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "93e97119-d259-4cdd-9227-73e06f7a1693"
+      }, 
+      "id": {
+        "S": "4c1f2c26-81bb-441f-a976-dffd00bd13d4"
+      }, 
+      "createdAt": {
+        "N": "1457631994317"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "b2c78e14-6231-4df0-b2a6-92690f842aef"
+      }, 
+      "id": {
+        "S": "a318386c-c3f3-49c0-8857-9ec75d1c2eab"
+      }, 
+      "createdAt": {
+        "N": "1457631995712"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "6adbf41a-7afe-46b9-9d05-b773cb3b67db"
+      }, 
+      "id": {
+        "S": "481e3c3a-a474-45b8-b359-a57b11afcc50"
+      }, 
+      "createdAt": {
+        "N": "1457607617330"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "98f2d9a8-e8de-4a58-b2f1-36f3d2d44333"
+      }, 
+      "userId": {
+        "S": "2d4bc3a4-0ab1-4323-86e5-0dcf36e59eb9"
+      }, 
+      "id": {
+        "S": "48d450c8-7c40-4658-b827-63c734e6f6a4"
+      }, 
+      "createdAt": {
+        "N": "1458222472369"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "98f2d9a8-e8de-4a58-b2f1-36f3d2d44333"
+      }, 
+      "userId": {
+        "S": "09215b6b-2116-4c1d-add6-0b0b7063f712"
+      }, 
+      "id": {
+        "S": "61a69170-0ac3-4fbf-b7e6-76584a224fe8"
+      }, 
+      "createdAt": {
+        "N": "1458222468127"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "40eea5f1-2c1b-4a84-81bd-be3ec32dcefe"
+      }, 
+      "createdAt": {
+        "N": "1458059786200"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "e750d921-645e-40bf-b787-8f957321cba7"
+      }, 
+      "id": {
+        "S": "42dc251f-b5de-45f0-951c-946e4c5fe739"
+      }, 
+      "createdAt": {
+        "N": "1458555330511"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "c0559842-8663-469f-a759-34b72c5353d3"
+      }, 
+      "id": {
+        "S": "c83c727b-06bb-4f1f-a80d-1691ab9f92c0"
+      }, 
+      "createdAt": {
+        "N": "1458723654827"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "b2c78e14-6231-4df0-b2a6-92690f842aef"
+      }, 
+      "id": {
+        "S": "219bbc83-86eb-419c-839e-c47ddc25427e"
+      }, 
+      "createdAt": {
+        "N": "1457631996856"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "4693271e-dd00-41cf-af1d-c04ac55359f7"
+      }, 
+      "userId": {
+        "S": "f08b0795-21e1-48b4-ba7f-c221468be272"
+      }, 
+      "id": {
+        "S": "9e1fd94c-3908-4188-bfad-ffea6da94e85"
+      }, 
+      "createdAt": {
+        "N": "1458642546808"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "74ba4294-3530-46d1-a68e-59bcdb7da5c7"
+      }, 
+      "userId": {
+        "S": "be878ad8-b15c-4dd4-b30e-f7dbdbdb18e8"
+      }, 
+      "id": {
+        "S": "6035504b-a0b9-42fa-9121-281e3608e798"
+      }, 
+      "createdAt": {
+        "N": "1459094087714"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "4693271e-dd00-41cf-af1d-c04ac55359f7"
+      }, 
+      "userId": {
+        "S": "dac96366-21f8-4ad2-a680-4a7c8db1e560"
+      }, 
+      "id": {
+        "S": "aa1b8d3b-7841-4950-a7cb-2e732411b388"
+      }, 
+      "createdAt": {
+        "N": "1458642434246"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "cf1c25c1-c302-4e92-99a6-b3287c2297a1"
+      }, 
+      "id": {
+        "S": "1c0e55bb-db9b-42a4-b560-342d22805ae9"
+      }, 
+      "createdAt": {
+        "N": "1457968243967"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "f6c4dc1d-28a9-4de4-832f-ed1f342ee336"
+      }, 
+      "id": {
+        "S": "9932aa2d-63cb-455c-90ce-f312e78ebbcb"
+      }, 
+      "createdAt": {
+        "N": "1458222514344"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "2696ee58-4a1f-4fab-a78d-4525e33734a7"
+      }, 
+      "id": {
+        "S": "cb34c7af-8480-4079-9349-d86adadbff04"
+      }, 
+      "createdAt": {
+        "N": "1457970529690"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "cf1c25c1-c302-4e92-99a6-b3287c2297a1"
+      }, 
+      "id": {
+        "S": "24618be3-07c3-4a5d-baa4-6e44a1d66157"
+      }, 
+      "createdAt": {
+        "N": "1457968243460"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "68b0224b-ddd5-456a-9ee5-478a74468211"
+      }, 
+      "id": {
+        "S": "dff213d0-7c0e-42f4-842f-cd1dcd08483c"
+      }, 
+      "createdAt": {
+        "N": "1459087227898"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d2eb30ff-93fc-4698-a252-f66bfe04553d"
+      }, 
+      "userId": {
+        "S": "dac96366-21f8-4ad2-a680-4a7c8db1e560"
+      }, 
+      "id": {
+        "S": "00ba4534-5f6f-460a-af84-ffc1a344b26a"
+      }, 
+      "createdAt": {
+        "N": "1458639133174"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "2611ecd6-5d3e-42d7-a270-6968275fa73d"
+      }, 
+      "id": {
+        "S": "57009410-c261-4547-b5f0-118574c94b95"
+      }, 
+      "createdAt": {
+        "N": "1457631998799"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "98f2d9a8-e8de-4a58-b2f1-36f3d2d44333"
+      }, 
+      "userId": {
+        "S": "84d2f309-9fb2-49ce-a688-3e742c785877"
+      }, 
+      "id": {
+        "S": "1751ef20-4205-4415-8aa6-14157b24544f"
+      }, 
+      "createdAt": {
+        "N": "1458222469595"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "5db86143-14ea-4ccb-a067-a62c63a89da9"
+      }, 
+      "createdAt": {
+        "N": "1457970533303"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "cf1c25c1-c302-4e92-99a6-b3287c2297a1"
+      }, 
+      "id": {
+        "S": "6b853b36-eba9-4a8d-8e64-f54311c1748a"
+      }, 
+      "createdAt": {
+        "N": "1457968215498"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "2611ecd6-5d3e-42d7-a270-6968275fa73d"
+      }, 
+      "id": {
+        "S": "a4767fb9-7dea-44b7-a205-0d6874d90b7c"
+      }, 
+      "createdAt": {
+        "N": "1457631997985"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "55479204-face-44de-8db3-b44617a93d09"
+      }, 
+      "id": {
+        "S": "7bf498f6-3d3c-45d6-9626-d47a5d8168ca"
+      }, 
+      "createdAt": {
+        "N": "1459087225821"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "ac9143ae-16bd-4610-87b9-0bd535cdfeb2"
+      }, 
+      "id": {
+        "S": "a1307c07-b059-4368-88fb-5b1556c0fc23"
+      }, 
+      "createdAt": {
+        "N": "1458555352921"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "dac96366-21f8-4ad2-a680-4a7c8db1e560"
+      }, 
+      "id": {
+        "S": "d944be58-057c-42d1-89a5-7c162146bfb8"
+      }, 
+      "createdAt": {
+        "N": "1458555351394"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "6adbf41a-7afe-46b9-9d05-b773cb3b67db"
+      }, 
+      "id": {
+        "S": "6c749938-9bce-449e-b297-137581ce0472"
+      }, 
+      "createdAt": {
+        "N": "1457607605868"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "77000a83-ae38-465b-a8de-ca9d1ed37830"
+      }, 
+      "id": {
+        "S": "1b4a0997-7074-43ae-b41a-36dce1371c18"
+      }, 
+      "createdAt": {
+        "N": "1457968214092"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "b2c78e14-6231-4df0-b2a6-92690f842aef"
+      }, 
+      "id": {
+        "S": "fbf04303-0d3a-4c4a-8c90-b5aa91ab839a"
+      }, 
+      "createdAt": {
+        "N": "1457631996159"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "f22478f2-c34d-4378-876a-dde28f9495a2"
+      }, 
+      "id": {
+        "S": "34433890-a9f6-4b3b-b561-0487f2a2a829"
+      }, 
+      "createdAt": {
+        "N": "1458723660341"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "74ba4294-3530-46d1-a68e-59bcdb7da5c7"
+      }, 
+      "userId": {
+        "S": "be878ad8-b15c-4dd4-b30e-f7dbdbdb18e8"
+      }, 
+      "id": {
+        "S": "3a5f1429-caa1-412e-85ab-ec9cd5392835"
+      }, 
+      "createdAt": {
+        "N": "1459094089986"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "5762442b-4634-4e03-9f55-f8e22da5554c"
+      }, 
+      "id": {
+        "S": "2d73ce76-c944-4b38-9f50-69930286fb80"
+      }, 
+      "createdAt": {
+        "N": "1459087232298"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "e149e5dd-a905-45bd-afa9-a63a4228fed7"
+      }, 
+      "id": {
+        "S": "7267753a-55c3-479f-ab23-943073cd73d6"
+      }, 
+      "createdAt": {
+        "N": "1458555339587"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "6adbf41a-7afe-46b9-9d05-b773cb3b67db"
+      }, 
+      "id": {
+        "S": "06f1dc64-1c0d-469e-ba98-7843fcc0e729"
+      }, 
+      "createdAt": {
+        "N": "1457607629008"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "4693271e-dd00-41cf-af1d-c04ac55359f7"
+      }, 
+      "userId": {
+        "S": "60c698cd-a8e8-4631-ae2c-15bc04ab6813"
+      }, 
+      "id": {
+        "S": "568f1e74-45f5-4761-8fa0-3919b9ea70cc"
+      }, 
+      "createdAt": {
+        "N": "1458642440862"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "4bb1c52d-66e3-42ae-9f21-e57c8f3da6c5"
+      }, 
+      "createdAt": {
+        "N": "1458062064751"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "ce71b1a2-72ae-4b60-b484-0d91cb742cf6"
+      }, 
+      "id": {
+        "S": "52f83e62-2f7e-4ffd-9d23-38495cc7f38d"
+      }, 
+      "createdAt": {
+        "N": "1458555329030"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "cf1c25c1-c302-4e92-99a6-b3287c2297a1"
+      }, 
+      "id": {
+        "S": "c2dc1c45-c1e0-4e7f-bab0-8b0352277d56"
+      }, 
+      "createdAt": {
+        "N": "1457968241453"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "31970005-6f4e-4271-9f33-842cc5fff978"
+      }, 
+      "id": {
+        "S": "f51d153e-abed-4568-a9d9-06b7735e6f32"
+      }, 
+      "createdAt": {
+        "N": "1458222502426"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "e79e2927-3a41-4f30-91d1-9f20acad0294"
+      }, 
+      "id": {
+        "S": "07f87fa3-1157-46f4-9801-009c945e4fad"
+      }, 
+      "createdAt": {
+        "N": "1457970536419"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "aec1aea8-163d-4686-997c-e406827dcbb2"
+      }, 
+      "id": {
+        "S": "f3dd4dd9-0a02-49ce-8258-08283324d418"
+      }, 
+      "createdAt": {
+        "N": "1457607618360"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "942198e1-2ec9-4120-955b-4e65af991e64"
+      }, 
+      "createdAt": {
+        "N": "1458059986048"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "f22478f2-c34d-4378-876a-dde28f9495a2"
+      }, 
+      "id": {
+        "S": "a13efabb-859b-4987-8a74-5b783a70b55f"
+      }, 
+      "createdAt": {
+        "N": "1458723661894"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "f08b0795-21e1-48b4-ba7f-c221468be272"
+      }, 
+      "id": {
+        "S": "1b9d5043-403b-49a8-a4f3-b5de68606caf"
+      }, 
+      "createdAt": {
+        "N": "1458555354368"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "a5ce14d1-1e1e-4799-9357-61332cb4d92a"
+      }, 
+      "id": {
+        "S": "0793e867-c728-46b6-97bf-ca1e72894867"
+      }, 
+      "createdAt": {
+        "N": "1458723656591"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d45ec15c-988f-47ec-b0b9-842d7deefa88"
+      }, 
+      "userId": {
+        "S": "512868e8-12ff-400f-8fa1-1b33a5201eeb"
+      }, 
+      "id": {
+        "S": "9985c127-ca03-469b-bdad-7105ded7dfd0"
+      }, 
+      "createdAt": {
+        "N": "1458556160414"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "2f3e18d1-230d-468d-ae30-7de918028945"
+      }, 
+      "createdAt": {
+        "N": "1458552190121"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "74ba4294-3530-46d1-a68e-59bcdb7da5c7"
+      }, 
+      "userId": {
+        "S": "6a09d6e8-8d21-44de-9d62-488806a8d11c"
+      }, 
+      "id": {
+        "S": "fe7c7d29-a049-4d37-bbeb-bc2bd7ab3334"
+      }, 
+      "createdAt": {
+        "N": "1459094089340"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "98f2d9a8-e8de-4a58-b2f1-36f3d2d44333"
+      }, 
+      "userId": {
+        "S": "321a6a4c-e008-4917-95dd-3b1725c88b58"
+      }, 
+      "id": {
+        "S": "cbfdd701-092e-4faf-81ab-9ef4780e9b5b"
+      }, 
+      "createdAt": {
+        "N": "1458222469036"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d45ec15c-988f-47ec-b0b9-842d7deefa88"
+      }, 
+      "userId": {
+        "S": "512868e8-12ff-400f-8fa1-1b33a5201eeb"
+      }, 
+      "id": {
+        "S": "c2440753-3244-4fc0-8693-d85174b7210c"
+      }, 
+      "createdAt": {
+        "N": "1458555574346"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "6adbf41a-7afe-46b9-9d05-b773cb3b67db"
+      }, 
+      "id": {
+        "S": "6f1da634-bba8-4eeb-b9f7-dbe106aace2e"
+      }, 
+      "createdAt": {
+        "N": "1457607626390"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "3c289acb-5862-4aa3-ac9d-0a1f52a1bcb0"
+      }, 
+      "id": {
+        "S": "0246b59c-1f74-4916-b5fe-b629db6780cf"
+      }, 
+      "createdAt": {
+        "N": "1457631993643"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "72029f78-864f-4083-9386-64506a6d5b90"
+      }, 
+      "id": {
+        "S": "aa77dbfa-18c2-42e6-8844-bf2b9e677dae"
+      }, 
+      "createdAt": {
+        "N": "1457970535894"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "cd417708-deaa-4cf9-8989-4bcb59bab67b"
+      }, 
+      "id": {
+        "S": "e6e8c47c-6ac8-4596-91f8-a95abc6972af"
+      }, 
+      "createdAt": {
+        "N": "1458723665917"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "6a09d6e8-8d21-44de-9d62-488806a8d11c"
+      }, 
+      "id": {
+        "S": "a1d384b4-550b-46d7-b748-46bb8c784c6d"
+      }, 
+      "createdAt": {
+        "N": "1458555336300"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "60e168cc-5211-4f9f-b414-f105c5c73619"
+      }, 
+      "createdAt": {
+        "N": "1457970531755"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "fb64f3ce-cb11-49bb-b7b6-965f654c6c97"
+      }, 
+      "id": {
+        "S": "d3540a75-13fb-46dc-830e-c07607556a6f"
+      }, 
+      "createdAt": {
+        "N": "1458222509817"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d45ec15c-988f-47ec-b0b9-842d7deefa88"
+      }, 
+      "userId": {
+        "S": "ce71b1a2-72ae-4b60-b484-0d91cb742cf6"
+      }, 
+      "id": {
+        "S": "6b36e26b-bd12-4028-b622-6ee6dfda5948"
+      }, 
+      "createdAt": {
+        "N": "1458556157791"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "24afdab5-5f84-484c-a57e-06996bf16090"
+      }, 
+      "id": {
+        "S": "a5ad241d-a2aa-4023-931f-3187127e2295"
+      }, 
+      "createdAt": {
+        "N": "1459087225048"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "98f2d9a8-e8de-4a58-b2f1-36f3d2d44333"
+      }, 
+      "userId": {
+        "S": "d1207c29-bfcc-46f6-a7a2-a6422410c303"
+      }, 
+      "id": {
+        "S": "8b6f7a23-4a65-43f8-8c7e-8468677d2d9b"
+      }, 
+      "createdAt": {
+        "N": "1458222467264"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "292cda86-0c79-4e6a-a0b3-1a1f0c1f6607"
+      }, 
+      "id": {
+        "S": "1e802589-1ad6-42df-845c-d477601f55ec"
+      }, 
+      "createdAt": {
+        "N": "1457607615308"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "57aff690-a233-413b-861a-07b9d27670e7"
+      }, 
+      "createdAt": {
+        "N": "1457970563008"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "e79e2927-3a41-4f30-91d1-9f20acad0294"
+      }, 
+      "id": {
+        "S": "a48edc32-3824-4f5b-911f-893d72e6a123"
+      }, 
+      "createdAt": {
+        "N": "1457970557597"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "fb64f3ce-cb11-49bb-b7b6-965f654c6c97"
+      }, 
+      "id": {
+        "S": "d73e6d33-0e51-4fc1-819a-26e8716f98ec"
+      }, 
+      "createdAt": {
+        "N": "1458222513759"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d2eb30ff-93fc-4698-a252-f66bfe04553d"
+      }, 
+      "userId": {
+        "S": "f08b0795-21e1-48b4-ba7f-c221468be272"
+      }, 
+      "id": {
+        "S": "dfb947f6-ae8c-4b86-b8d1-243550aa30fd"
+      }, 
+      "createdAt": {
+        "N": "1458639138006"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "31970005-6f4e-4271-9f33-842cc5fff978"
+      }, 
+      "id": {
+        "S": "c72fc500-a7f3-44ff-88e6-f3abe64a7a60"
+      }, 
+      "createdAt": {
+        "N": "1458222501544"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "cd417708-deaa-4cf9-8989-4bcb59bab67b"
+      }, 
+      "id": {
+        "S": "b93c1c1d-a757-408b-aef3-a835a3304368"
+      }, 
+      "createdAt": {
+        "N": "1458723657017"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "cf1c25c1-c302-4e92-99a6-b3287c2297a1"
+      }, 
+      "id": {
+        "S": "e55cc2a6-859c-4ff4-86ba-a9f69dc0b834"
+      }, 
+      "createdAt": {
+        "N": "1457968241849"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d2eb30ff-93fc-4698-a252-f66bfe04553d"
+      }, 
+      "userId": {
+        "S": "f08b0795-21e1-48b4-ba7f-c221468be272"
+      }, 
+      "id": {
+        "S": "61e63457-876a-42d1-b0dc-78a41421505f"
+      }, 
+      "createdAt": {
+        "N": "1458639137210"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "eeaa7ac1-517b-4f77-bbae-421f5706c892"
+      }, 
+      "id": {
+        "S": "0abbb208-bf15-4ccd-a0b2-f318d76d2619"
+      }, 
+      "createdAt": {
+        "N": "1458555351519"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "f6c4dc1d-28a9-4de4-832f-ed1f342ee336"
+      }, 
+      "id": {
+        "S": "5b5a79b9-78ec-4245-b63d-c256fcc0d593"
+      }, 
+      "createdAt": {
+        "N": "1458222507863"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "72029f78-864f-4083-9386-64506a6d5b90"
+      }, 
+      "id": {
+        "S": "d0f75cee-490f-4603-819e-3a587ba2ddc1"
+      }, 
+      "createdAt": {
+        "N": "1457970527841"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "512868e8-12ff-400f-8fa1-1b33a5201eeb"
+      }, 
+      "id": {
+        "S": "6adc026c-abed-4e58-875c-19fc06360d62"
+      }, 
+      "createdAt": {
+        "N": "1458555335825"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "512868e8-12ff-400f-8fa1-1b33a5201eeb"
+      }, 
+      "id": {
+        "S": "277beb36-9ca6-4eef-ac05-ec8d7c41eb22"
+      }, 
+      "createdAt": {
+        "N": "1458555335338"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "98f2d9a8-e8de-4a58-b2f1-36f3d2d44333"
+      }, 
+      "userId": {
+        "S": "232b9087-c3da-4d80-b03a-9c1923dfbc8b"
+      }, 
+      "id": {
+        "S": "0b8a3687-e11c-42e0-962f-a1f732510f65"
+      }, 
+      "createdAt": {
+        "N": "1458222475612"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "f6c4dc1d-28a9-4de4-832f-ed1f342ee336"
+      }, 
+      "id": {
+        "S": "c69b2f7e-4729-4939-9d89-6e17daace21b"
+      }, 
+      "createdAt": {
+        "N": "1458222504993"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "cd417708-deaa-4cf9-8989-4bcb59bab67b"
+      }, 
+      "id": {
+        "S": "38f19f49-4e44-4a43-aed5-6b7fb7b84808"
+      }, 
+      "createdAt": {
+        "N": "1458723663879"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "cd417708-deaa-4cf9-8989-4bcb59bab67b"
+      }, 
+      "id": {
+        "S": "6ccaefa3-db33-41ce-a0c8-9ce6b45a97a9"
+      }, 
+      "createdAt": {
+        "N": "1458723658669"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "3e030eaa-ca53-4b9f-99b8-c0158d0da6ca"
+      }, 
+      "id": {
+        "S": "1eab3444-ca0b-4172-bfb2-23d89ef6d59b"
+      }, 
+      "createdAt": {
+        "N": "1457631993869"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "b2c78e14-6231-4df0-b2a6-92690f842aef"
+      }, 
+      "id": {
+        "S": "d5af13c0-afe9-4b32-b26d-e0e5a1ebf486"
+      }, 
+      "createdAt": {
+        "N": "1457631996631"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "f08b0795-21e1-48b4-ba7f-c221468be272"
+      }, 
+      "id": {
+        "S": "2ebef079-e00c-40c1-b2d9-0e0671d416f5"
+      }, 
+      "createdAt": {
+        "N": "1458555353407"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "77000a83-ae38-465b-a8de-ca9d1ed37830"
+      }, 
+      "id": {
+        "S": "d211e0d3-8902-4367-aca7-ecb6aede95d1"
+      }, 
+      "createdAt": {
+        "N": "1457968246305"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "cd4e9317-7336-4e85-a7b1-eb6001ee62a2"
+      }, 
+      "userId": {
+        "S": "403a2ad6-a03a-4dd0-8486-9aecf73c40e7"
+      }, 
+      "id": {
+        "S": "ef0147b5-0bf7-4024-8911-da1d886a91da"
+      }, 
+      "createdAt": {
+        "N": "1458643491104"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "2611ecd6-5d3e-42d7-a270-6968275fa73d"
+      }, 
+      "id": {
+        "S": "22b88d76-90bf-4462-b53f-a845f23c0de4"
+      }, 
+      "createdAt": {
+        "N": "1457631993401"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "98f2d9a8-e8de-4a58-b2f1-36f3d2d44333"
+      }, 
+      "userId": {
+        "S": "68cb8e36-2783-4c32-a08e-96bc946a40c7"
+      }, 
+      "id": {
+        "S": "df60d350-7ebf-4f48-a2b9-fe64d57fde2d"
+      }, 
+      "createdAt": {
+        "N": "1458222473805"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "98f2d9a8-e8de-4a58-b2f1-36f3d2d44333"
+      }, 
+      "userId": {
+        "S": "4086c970-ef30-4b1c-81af-9684f3aa2f48"
+      }, 
+      "id": {
+        "S": "81fd1942-0593-4ed6-9f7b-23cf38330f97"
+      }, 
+      "createdAt": {
+        "N": "1458222473184"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "72029f78-864f-4083-9386-64506a6d5b90"
+      }, 
+      "id": {
+        "S": "bf460127-0222-478f-b83f-e658fcd85799"
+      }, 
+      "createdAt": {
+        "N": "1457970534858"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "b2c78e14-6231-4df0-b2a6-92690f842aef"
+      }, 
+      "id": {
+        "S": "958ccaa3-28ef-405c-9f86-0b6c3842695c"
+      }, 
+      "createdAt": {
+        "N": "1457631992861"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d45ec15c-988f-47ec-b0b9-842d7deefa88"
+      }, 
+      "userId": {
+        "S": "e750d921-645e-40bf-b787-8f957321cba7"
+      }, 
+      "id": {
+        "S": "39122dc1-980d-4cf9-99ab-7cdcb6154c51"
+      }, 
+      "createdAt": {
+        "N": "1458556159505"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "4cf9a919-0082-4bf0-8d36-c16f5f54bf73"
+      }, 
+      "createdAt": {
+        "N": "1457970563473"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "ffbe73fa-0ce5-4980-9647-9805db519d59"
+      }, 
+      "id": {
+        "S": "bb3670e3-f4ff-44d1-b2fb-ef70462cd970"
+      }, 
+      "createdAt": {
+        "N": "1457968240502"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "72029f78-864f-4083-9386-64506a6d5b90"
+      }, 
+      "id": {
+        "S": "6f919dfb-d6f4-41a9-8c1f-4b2285dfa2fa"
+      }, 
+      "createdAt": {
+        "N": "1457970558880"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "77000a83-ae38-465b-a8de-ca9d1ed37830"
+      }, 
+      "id": {
+        "S": "a627d234-2a45-411d-8fb3-d7853a889ef4"
+      }, 
+      "createdAt": {
+        "N": "1457968244451"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "f22478f2-c34d-4378-876a-dde28f9495a2"
+      }, 
+      "id": {
+        "S": "14364eec-df6d-4eb9-8098-20387de8dce5"
+      }, 
+      "createdAt": {
+        "N": "1458723662441"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "b0810ef4-4440-407f-978c-6346e0c86209"
+      }, 
+      "id": {
+        "S": "555606f0-5720-49f7-aa77-f8eec5ebd809"
+      }, 
+      "createdAt": {
+        "N": "1458222499507"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "ca955f10-6bb9-4304-9d17-9d17c9bac2f4"
+      }, 
+      "id": {
+        "S": "786425ff-ed07-4847-ab0f-cd30e60d549c"
+      }, 
+      "createdAt": {
+        "N": "1457631993172"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "72029f78-864f-4083-9386-64506a6d5b90"
+      }, 
+      "id": {
+        "S": "1e260c16-977e-4733-96d0-4b4eae4cb395"
+      }, 
+      "createdAt": {
+        "N": "1457970535344"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "cd4e9317-7336-4e85-a7b1-eb6001ee62a2"
+      }, 
+      "userId": {
+        "S": "ac9143ae-16bd-4610-87b9-0bd535cdfeb2"
+      }, 
+      "id": {
+        "S": "33c2d85c-85e8-4a21-9c40-52570fc3ac7f"
+      }, 
+      "createdAt": {
+        "N": "1458643488647"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "b2c78e14-6231-4df0-b2a6-92690f842aef"
+      }, 
+      "id": {
+        "S": "4ee7951e-7baa-4451-bc7b-e3a19f597b6a"
+      }, 
+      "createdAt": {
+        "N": "1457631995947"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "cd4e9317-7336-4e85-a7b1-eb6001ee62a2"
+      }, 
+      "userId": {
+        "S": "f08b0795-21e1-48b4-ba7f-c221468be272"
+      }, 
+      "id": {
+        "S": "70f4a16e-e4c7-437c-8f9a-d3ebdc9e8290"
+      }, 
+      "createdAt": {
+        "N": "1458643489123"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "2611ecd6-5d3e-42d7-a270-6968275fa73d"
+      }, 
+      "id": {
+        "S": "3febb729-e681-4175-b58d-156a18d825f4"
+      }, 
+      "createdAt": {
+        "N": "1457631997582"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "ffbe73fa-0ce5-4980-9647-9805db519d59"
+      }, 
+      "id": {
+        "S": "8898770e-965c-4e0d-a254-d277b1cbb3c2"
+      }, 
+      "createdAt": {
+        "N": "1457968240461"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "3875a814-5d7e-43d3-8e0e-056b58982aa3"
+      }, 
+      "id": {
+        "S": "5e8dfc08-5359-422d-b24f-2817d115190f"
+      }, 
+      "createdAt": {
+        "N": "1457970559757"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "292cda86-0c79-4e6a-a0b3-1a1f0c1f6607"
+      }, 
+      "id": {
+        "S": "7a558878-65e8-4224-ae68-9d8048edc41b"
+      }, 
+      "createdAt": {
+        "N": "1457607621920"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "c7648d86-3805-4a15-9328-c3db40e05158"
+      }, 
+      "createdAt": {
+        "N": "1457970561767"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d2eb30ff-93fc-4698-a252-f66bfe04553d"
+      }, 
+      "userId": {
+        "S": "eeaa7ac1-517b-4f77-bbae-421f5706c892"
+      }, 
+      "id": {
+        "S": "c4ecadd6-8895-41ba-91c5-4066a54c76b3"
+      }, 
+      "createdAt": {
+        "N": "1458639133981"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "d640a73f-fc90-4f5a-bf06-a0136bd8d052"
+      }, 
+      "id": {
+        "S": "29bcbce4-fa77-47ba-ac2f-66ed7575dd5f"
+      }, 
+      "createdAt": {
+        "N": "1458723661477"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "512868e8-12ff-400f-8fa1-1b33a5201eeb"
+      }, 
+      "id": {
+        "S": "9c2e32bd-d5ae-4cc2-be5d-809a73dbc906"
+      }, 
+      "createdAt": {
+        "N": "1458555334344"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "7ba3ca1b-528d-4333-adf8-eed62165c3cf"
+      }, 
+      "id": {
+        "S": "3ef2fb1f-5578-4d45-b74a-09649666335b"
+      }, 
+      "createdAt": {
+        "N": "1459087230911"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "cd417708-deaa-4cf9-8989-4bcb59bab67b"
+      }, 
+      "id": {
+        "S": "0f7307fb-406a-40e9-983b-51ae189524a4"
+      }, 
+      "createdAt": {
+        "N": "1458723667295"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "3a7f6373-ba15-4018-9e67-3c1ba4d15bf9"
+      }, 
+      "createdAt": {
+        "N": "1457970528885"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "fb64f3ce-cb11-49bb-b7b6-965f654c6c97"
+      }, 
+      "id": {
+        "S": "0e749c22-4b45-40db-973d-cdac620fb5f8"
+      }, 
+      "createdAt": {
+        "N": "1458222515220"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "e79e2927-3a41-4f30-91d1-9f20acad0294"
+      }, 
+      "id": {
+        "S": "e7e24dc5-c6b0-4fca-b638-f272e5ed4990"
+      }, 
+      "createdAt": {
+        "N": "1457970560259"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "f35885cb-0a42-4fa3-ad37-c51ae6e4e08b"
+      }, 
+      "createdAt": {
+        "N": "1458060699503"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "dac96366-21f8-4ad2-a680-4a7c8db1e560"
+      }, 
+      "id": {
+        "S": "dcd4f3fe-9b13-4c01-9027-79668638a9b9"
+      }, 
+      "createdAt": {
+        "N": "1458555351032"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "cf1c25c1-c302-4e92-99a6-b3287c2297a1"
+      }, 
+      "id": {
+        "S": "fc058f47-ee48-45ea-b32e-5f36feee5d0f"
+      }, 
+      "createdAt": {
+        "N": "1457968242467"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "f6c4dc1d-28a9-4de4-832f-ed1f342ee336"
+      }, 
+      "id": {
+        "S": "5ab097aa-5357-41c5-b390-5b2a2dbcffb5"
+      }, 
+      "createdAt": {
+        "N": "1458222504443"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d2eb30ff-93fc-4698-a252-f66bfe04553d"
+      }, 
+      "userId": {
+        "S": "60c698cd-a8e8-4631-ae2c-15bc04ab6813"
+      }, 
+      "id": {
+        "S": "5860fb47-760c-4a09-a995-6155798a1488"
+      }, 
+      "createdAt": {
+        "N": "1458639134819"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "77000a83-ae38-465b-a8de-ca9d1ed37830"
+      }, 
+      "id": {
+        "S": "bee0b0a7-dd0d-4cb5-8ab5-44a8e4a14106"
+      }, 
+      "createdAt": {
+        "N": "1457968245457"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "3e030eaa-ca53-4b9f-99b8-c0158d0da6ca"
+      }, 
+      "id": {
+        "S": "e8974518-f743-4371-80a5-5d7afbc36f6b"
+      }, 
+      "createdAt": {
+        "N": "1457631996391"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "b2aa6222-03be-4b50-afea-4d3c23d49597"
+      }, 
+      "id": {
+        "S": "9ade3981-2239-4519-b63e-f4b266ba397b"
+      }, 
+      "createdAt": {
+        "N": "1459087225481"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "1d55e09b-1164-4acf-b646-2e92bd2b3c72"
+      }, 
+      "id": {
+        "S": "9a1036c0-1485-415b-a06f-b674175dfdfa"
+      }, 
+      "createdAt": {
+        "N": "1457607625166"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "74ba4294-3530-46d1-a68e-59bcdb7da5c7"
+      }, 
+      "userId": {
+        "S": "e750d921-645e-40bf-b787-8f957321cba7"
+      }, 
+      "id": {
+        "S": "3ca2a152-0924-4efa-a143-afac7f823927"
+      }, 
+      "createdAt": {
+        "N": "1459094082975"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "da286553-6868-4a77-9574-d793da84f5c4"
+      }, 
+      "id": {
+        "S": "538f34ca-3b91-44ec-bb19-f08bef8596e1"
+      }, 
+      "createdAt": {
+        "N": "1457970531222"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "512868e8-12ff-400f-8fa1-1b33a5201eeb"
+      }, 
+      "id": {
+        "S": "b3ddaf6b-e572-4a65-9bd1-076b86d2af8c"
+      }, 
+      "createdAt": {
+        "N": "1458555333861"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d2eb30ff-93fc-4698-a252-f66bfe04553d"
+      }, 
+      "userId": {
+        "S": "f08b0795-21e1-48b4-ba7f-c221468be272"
+      }, 
+      "id": {
+        "S": "2b8579c3-a264-4e3e-b42e-bc57b9933730"
+      }, 
+      "createdAt": {
+        "N": "1458639138525"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "fc0ab64a-75fd-475f-bf77-9f8236826b25"
+      }, 
+      "createdAt": {
+        "N": "1457970530726"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "cd417708-deaa-4cf9-8989-4bcb59bab67b"
+      }, 
+      "id": {
+        "S": "5fd9efca-bf3f-483b-be87-f2e629401c98"
+      }, 
+      "createdAt": {
+        "N": "1458723664716"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "72029f78-864f-4083-9386-64506a6d5b90"
+      }, 
+      "id": {
+        "S": "3e172cb4-5fbd-466f-861e-43626ee5ae32"
+      }, 
+      "createdAt": {
+        "N": "1457970534077"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "961a7ff9-d161-4a2d-8246-8b9fefba439e"
+      }, 
+      "id": {
+        "S": "02f04e1d-4acb-4f74-afca-972823e3bdc3"
+      }, 
+      "createdAt": {
+        "N": "1459087229836"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "72029f78-864f-4083-9386-64506a6d5b90"
+      }, 
+      "id": {
+        "S": "15024fcf-f18c-409e-bee0-bd09173e4157"
+      }, 
+      "createdAt": {
+        "N": "1457970532275"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "userId": {
+        "S": "40c37c65-9189-4b4d-96cd-198c5908ea42"
+      }, 
+      "id": {
+        "S": "ac315992-7037-496d-9b43-c622f4bd4354"
+      }, 
+      "createdAt": {
+        "N": "1457606500471"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "72029f78-864f-4083-9386-64506a6d5b90"
+      }, 
+      "id": {
+        "S": "4afa93ca-deb0-4e70-822c-2c7466218bc3"
+      }, 
+      "createdAt": {
+        "N": "1457970559236"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "7ba3ca1b-528d-4333-adf8-eed62165c3cf"
+      }, 
+      "id": {
+        "S": "5ab8ed81-5ed2-4aa3-8af1-61d0986ffefc"
+      }, 
+      "createdAt": {
+        "N": "1459087230328"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "4693271e-dd00-41cf-af1d-c04ac55359f7"
+      }, 
+      "userId": {
+        "S": "403a2ad6-a03a-4dd0-8486-9aecf73c40e7"
+      }, 
+      "id": {
+        "S": "45099da6-e45d-4b99-a9fe-2b1ec15a87d6"
+      }, 
+      "createdAt": {
+        "N": "1458642592221"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "e79e2927-3a41-4f30-91d1-9f20acad0294"
+      }, 
+      "id": {
+        "S": "b190ae4c-9b5e-495f-a2fa-37227f66a582"
+      }, 
+      "createdAt": {
+        "N": "1457970558018"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d2eb30ff-93fc-4698-a252-f66bfe04553d"
+      }, 
+      "userId": {
+        "S": "403a2ad6-a03a-4dd0-8486-9aecf73c40e7"
+      }, 
+      "id": {
+        "S": "3ba2072e-f96e-400a-b555-03b8a19bcd87"
+      }, 
+      "createdAt": {
+        "N": "1458639139562"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "98f2d9a8-e8de-4a58-b2f1-36f3d2d44333"
+      }, 
+      "userId": {
+        "S": "061c5a1c-14de-43ae-9610-4bd7d4e5ac31"
+      }, 
+      "id": {
+        "S": "33539fe2-0de9-4d61-9c3e-64c764bc871b"
+      }, 
+      "createdAt": {
+        "N": "1458222470410"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "cd4e9317-7336-4e85-a7b1-eb6001ee62a2"
+      }, 
+      "userId": {
+        "S": "eeaa7ac1-517b-4f77-bbae-421f5706c892"
+      }, 
+      "id": {
+        "S": "1958a75e-9d20-4d79-b99d-46940a09212b"
+      }, 
+      "createdAt": {
+        "N": "1458643487095"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "d68ec5a6-470f-45a1-9cef-ef65c1d3908c"
+      }, 
+      "createdAt": {
+        "N": "1457970562514"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "31c3dec6-560e-43dd-8bc6-8f77aa5f3c19"
+      }, 
+      "id": {
+        "S": "a38d2f5d-3037-4c9d-8f46-35d8d8fe5606"
+      }, 
+      "createdAt": {
+        "N": "1457968214675"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "b4420d12-7af2-444b-bbf3-117da7833d60"
+      }, 
+      "id": {
+        "S": "98085797-1aaf-45f0-8183-6e44cb2fc886"
+      }, 
+      "createdAt": {
+        "N": "1458555328043"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "cd4e9317-7336-4e85-a7b1-eb6001ee62a2"
+      }, 
+      "userId": {
+        "S": "c62f4e44-bd9c-45a8-8247-8d14f48918e1"
+      }, 
+      "id": {
+        "S": "4fd524a4-4f62-47d9-9065-3ab9f3a8c4c4"
+      }, 
+      "createdAt": {
+        "N": "1458643490626"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "f6c4dc1d-28a9-4de4-832f-ed1f342ee336"
+      }, 
+      "id": {
+        "S": "b5cb7d7d-2cd2-41a7-84ba-20910e35eb1f"
+      }, 
+      "createdAt": {
+        "N": "1458222511868"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "cd4e9317-7336-4e85-a7b1-eb6001ee62a2"
+      }, 
+      "userId": {
+        "S": "f08b0795-21e1-48b4-ba7f-c221468be272"
+      }, 
+      "id": {
+        "S": "72233900-3772-493d-bc17-a63ae39b06e0"
+      }, 
+      "createdAt": {
+        "N": "1458643489593"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d45ec15c-988f-47ec-b0b9-842d7deefa88"
+      }, 
+      "userId": {
+        "S": "b4420d12-7af2-444b-bbf3-117da7833d60"
+      }, 
+      "id": {
+        "S": "4f1974ae-c2d5-41af-9bf2-0b88d87beb0e"
+      }, 
+      "createdAt": {
+        "N": "1458555574854"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "77000a83-ae38-465b-a8de-ca9d1ed37830"
+      }, 
+      "id": {
+        "S": "be1181c9-a0c7-4c1a-a640-a5f35728135e"
+      }, 
+      "createdAt": {
+        "N": "1457968245990"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "6adbf41a-7afe-46b9-9d05-b773cb3b67db"
+      }, 
+      "id": {
+        "S": "edc21d0c-1893-4868-8ca7-9d62f3020a35"
+      }, 
+      "createdAt": {
+        "N": "1457607627258"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "f22478f2-c34d-4378-876a-dde28f9495a2"
+      }, 
+      "id": {
+        "S": "66f4fb81-7140-44f1-a7e1-72afd4ad0592"
+      }, 
+      "createdAt": {
+        "N": "1458723659890"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "e149e5dd-a905-45bd-afa9-a63a4228fed7"
+      }, 
+      "id": {
+        "S": "004c7c3b-1a28-48dc-9c71-4084702d56fb"
+      }, 
+      "createdAt": {
+        "N": "1458555339104"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d45ec15c-988f-47ec-b0b9-842d7deefa88"
+      }, 
+      "userId": {
+        "S": "be878ad8-b15c-4dd4-b30e-f7dbdbdb18e8"
+      }, 
+      "id": {
+        "S": "67a71f15-131a-4a1b-b51c-adf9c40aba73"
+      }, 
+      "createdAt": {
+        "N": "1458556163501"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "72029f78-864f-4083-9386-64506a6d5b90"
+      }, 
+      "id": {
+        "S": "8d8ed8d7-5460-439f-a723-3122d0c48ccd"
+      }, 
+      "createdAt": {
+        "N": "1457970559364"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "3649fe6c-6640-4dfc-9fce-a69aa3a23ff1"
+      }, 
+      "id": {
+        "S": "0a7fea77-1423-40c7-a278-8a1ba813f500"
+      }, 
+      "createdAt": {
+        "N": "1457607616567"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "aec1aea8-163d-4686-997c-e406827dcbb2"
+      }, 
+      "id": {
+        "S": "b55b8547-986d-40b7-8d59-3bd1c0eaf84c"
+      }, 
+      "createdAt": {
+        "N": "1457607617816"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "e149e5dd-a905-45bd-afa9-a63a4228fed7"
+      }, 
+      "id": {
+        "S": "34a4a208-0c86-4c3f-8fdc-8a42c7b635ee"
+      }, 
+      "createdAt": {
+        "N": "1458555330028"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "f22478f2-c34d-4378-876a-dde28f9495a2"
+      }, 
+      "id": {
+        "S": "b407993f-6a8b-41b7-baa4-14127c521546"
+      }, 
+      "createdAt": {
+        "N": "1458723661034"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "b2c78e14-6231-4df0-b2a6-92690f842aef"
+      }, 
+      "id": {
+        "S": "834a01eb-be8b-47fe-817a-1559181f891d"
+      }, 
+      "createdAt": {
+        "N": "1457631995491"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "e149e5dd-a905-45bd-afa9-a63a4228fed7"
+      }, 
+      "id": {
+        "S": "9eefcffa-2b1b-4e01-b2fb-f4d1f39c2457"
+      }, 
+      "createdAt": {
+        "N": "1458555328537"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "74ba4294-3530-46d1-a68e-59bcdb7da5c7"
+      }, 
+      "userId": {
+        "S": "be878ad8-b15c-4dd4-b30e-f7dbdbdb18e8"
+      }, 
+      "id": {
+        "S": "7741b1c6-dbf4-4351-8c06-787cee331663"
+      }, 
+      "createdAt": {
+        "N": "1459094082012"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "aff1829e-2204-4bff-bfe1-41643df3d2bf"
+      }, 
+      "createdAt": {
+        "N": "1458062106161"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d2eb30ff-93fc-4698-a252-f66bfe04553d"
+      }, 
+      "userId": {
+        "S": "c62f4e44-bd9c-45a8-8247-8d14f48918e1"
+      }, 
+      "id": {
+        "S": "7eb2b056-c42c-4822-8ed7-ded565c9faaf"
+      }, 
+      "createdAt": {
+        "N": "1458639139038"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "6adbf41a-7afe-46b9-9d05-b773cb3b67db"
+      }, 
+      "id": {
+        "S": "c0c45424-22eb-4c47-aa20-57f5f15be147"
+      }, 
+      "createdAt": {
+        "N": "1457607628030"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "0ea0bc84-cfc2-49bd-b722-782f9ffdc9d3"
+      }, 
+      "createdAt": {
+        "N": "1457970561267"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "f6c4dc1d-28a9-4de4-832f-ed1f342ee336"
+      }, 
+      "id": {
+        "S": "a21f24d6-e880-40bd-8c57-c74354198d65"
+      }, 
+      "createdAt": {
+        "N": "1458222512446"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "a1eaafad-2670-44f7-a302-af7859e5f6d2"
+      }, 
+      "createdAt": {
+        "N": "1457970563508"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "512868e8-12ff-400f-8fa1-1b33a5201eeb"
+      }, 
+      "id": {
+        "S": "70904df6-1c8c-4f99-a4a1-670e7fcd169f"
+      }, 
+      "createdAt": {
+        "N": "1458555327470"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "512868e8-12ff-400f-8fa1-1b33a5201eeb"
+      }, 
+      "id": {
+        "S": "794290b3-a4c6-434a-9290-b9d0c5fdf316"
+      }, 
+      "createdAt": {
+        "N": "1458555332919"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "72029f78-864f-4083-9386-64506a6d5b90"
+      }, 
+      "id": {
+        "S": "be08e3e6-93fd-41e8-9bf7-831f763a0e5d"
+      }, 
+      "createdAt": {
+        "N": "1457970532782"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "cf1c25c1-c302-4e92-99a6-b3287c2297a1"
+      }, 
+      "id": {
+        "S": "8e8f9269-71dd-47ef-8b19-45b7e3493ea6"
+      }, 
+      "createdAt": {
+        "N": "1457968239616"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "cd4e9317-7336-4e85-a7b1-eb6001ee62a2"
+      }, 
+      "userId": {
+        "S": "dac96366-21f8-4ad2-a680-4a7c8db1e560"
+      }, 
+      "id": {
+        "S": "07197876-faa1-4b01-81d0-ba7bf500e197"
+      }, 
+      "createdAt": {
+        "N": "1458643486558"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "f22478f2-c34d-4378-876a-dde28f9495a2"
+      }, 
+      "id": {
+        "S": "23472a26-f887-4d17-8b9b-5dae56c4d7d0"
+      }, 
+      "createdAt": {
+        "N": "1458723657444"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "241df488-6511-408f-a1dd-92cda306360c"
+      }, 
+      "createdAt": {
+        "N": "1457970562257"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "e149e5dd-a905-45bd-afa9-a63a4228fed7"
+      }, 
+      "id": {
+        "S": "b1418f32-610d-4559-b322-e0fb22c01e8b"
+      }, 
+      "createdAt": {
+        "N": "1458555337703"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "d60fcfa3-69f1-42a7-a45c-1ae9e6741181"
+      }, 
+      "id": {
+        "S": "ce63f9ca-c12a-442b-a2f4-68598fff978a"
+      }, 
+      "createdAt": {
+        "N": "1457968246474"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "2611ecd6-5d3e-42d7-a270-6968275fa73d"
+      }, 
+      "id": {
+        "S": "319e4716-ada9-4600-aae6-34ca480f8c09"
+      }, 
+      "createdAt": {
+        "N": "1457631995242"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "d8187ede-7fa2-4253-b4d1-a65033025fad"
+      }, 
+      "id": {
+        "S": "d72c9961-6868-48d2-8b46-6fc34b7440f4"
+      }, 
+      "createdAt": {
+        "N": "1458723662858"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "7ba3ca1b-528d-4333-adf8-eed62165c3cf"
+      }, 
+      "id": {
+        "S": "041d6a32-12f4-4413-97f6-bcf3089fc83b"
+      }, 
+      "createdAt": {
+        "N": "1459087230625"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "31970005-6f4e-4271-9f33-842cc5fff978"
+      }, 
+      "id": {
+        "S": "75d9588f-ec7c-483c-96d3-9f0029f4e2a4"
+      }, 
+      "createdAt": {
+        "N": "1458222497916"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "427a1924-446f-41b0-b572-24117ec20573"
+      }, 
+      "id": {
+        "S": "2da3861d-79e7-49a6-a4f6-64b374c60378"
+      }, 
+      "createdAt": {
+        "N": "1457968241964"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "b7969581-99da-4b05-b568-a1b00c7b4bb8"
+      }, 
+      "createdAt": {
+        "N": "1457970561260"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "60c698cd-a8e8-4631-ae2c-15bc04ab6813"
+      }, 
+      "id": {
+        "S": "5f02c6b5-3bfe-4f28-adac-913b2b126430"
+      }, 
+      "createdAt": {
+        "N": "1458555351963"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "17176e02-ad81-43fd-857e-40c1f98e2d14"
+      }, 
+      "createdAt": {
+        "N": "1457970561756"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "4693271e-dd00-41cf-af1d-c04ac55359f7"
+      }, 
+      "userId": {
+        "S": "c62f4e44-bd9c-45a8-8247-8d14f48918e1"
+      }, 
+      "id": {
+        "S": "06005636-f960-4379-ad63-629d8a6bdf33"
+      }, 
+      "createdAt": {
+        "N": "1458642590404"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "60c698cd-a8e8-4631-ae2c-15bc04ab6813"
+      }, 
+      "id": {
+        "S": "262fced7-c557-4a64-a21b-694d504586da"
+      }, 
+      "createdAt": {
+        "N": "1458555352444"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "cd417708-deaa-4cf9-8989-4bcb59bab67b"
+      }, 
+      "id": {
+        "S": "a45fdb76-28aa-4b5a-9c10-7028ba44474f"
+      }, 
+      "createdAt": {
+        "N": "1458723666610"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "512868e8-12ff-400f-8fa1-1b33a5201eeb"
+      }, 
+      "id": {
+        "S": "f7c37cf5-d425-4544-8159-d287b3e55c09"
+      }, 
+      "createdAt": {
+        "N": "1458555331967"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "3f69424e-ce39-4d95-a4da-1454a30f7799"
+      }, 
+      "createdAt": {
+        "N": "1458061628234"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "aec1aea8-163d-4686-997c-e406827dcbb2"
+      }, 
+      "id": {
+        "S": "dddfc7e0-4de0-446f-8d00-d8c58eefbfc3"
+      }, 
+      "createdAt": {
+        "N": "1457607620666"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "6adbf41a-7afe-46b9-9d05-b773cb3b67db"
+      }, 
+      "id": {
+        "S": "e47ab68b-d118-46d2-a6f1-a8018808c8e9"
+      }, 
+      "createdAt": {
+        "N": "1457607616084"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "98f2d9a8-e8de-4a58-b2f1-36f3d2d44333"
+      }, 
+      "userId": {
+        "S": "18305a78-fdf8-4515-bcc8-7b5009fe02df"
+      }, 
+      "id": {
+        "S": "966217c2-e8d7-43e4-8583-d6c1f978ee0e"
+      }, 
+      "createdAt": {
+        "N": "1458222477755"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "2611ecd6-5d3e-42d7-a270-6968275fa73d"
+      }, 
+      "id": {
+        "S": "3e0f0418-d47f-4d74-9c03-491f2cb9a8ef"
+      }, 
+      "createdAt": {
+        "N": "1457631998174"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "31970005-6f4e-4271-9f33-842cc5fff978"
+      }, 
+      "id": {
+        "S": "c0ede616-99e0-44b6-b82d-e1b91403293e"
+      }, 
+      "createdAt": {
+        "N": "1458222500029"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "4aef15f4-b712-43c6-a98c-c40d4daf6fad"
+      }, 
+      "id": {
+        "S": "c188d61e-9c08-42e0-a706-bfcdda9d90f7"
+      }, 
+      "createdAt": {
+        "N": "1458222506365"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "77000a83-ae38-465b-a8de-ca9d1ed37830"
+      }, 
+      "id": {
+        "S": "b217e29c-6d35-407a-9c16-bacec85f4951"
+      }, 
+      "createdAt": {
+        "N": "1457968242945"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d2eb30ff-93fc-4698-a252-f66bfe04553d"
+      }, 
+      "userId": {
+        "S": "ac9143ae-16bd-4610-87b9-0bd535cdfeb2"
+      }, 
+      "id": {
+        "S": "2ac96ab9-a18a-4b3d-aeb0-e11ac007d4b4"
+      }, 
+      "createdAt": {
+        "N": "1458639136413"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "77000a83-ae38-465b-a8de-ca9d1ed37830"
+      }, 
+      "id": {
+        "S": "10f44752-f935-468c-b2bd-a2e124d83e80"
+      }, 
+      "createdAt": {
+        "N": "1457968244779"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "f22478f2-c34d-4378-876a-dde28f9495a2"
+      }, 
+      "id": {
+        "S": "87ce3721-78d6-4a81-ba85-d03e22d72c6f"
+      }, 
+      "createdAt": {
+        "N": "1458723657905"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "cd417708-deaa-4cf9-8989-4bcb59bab67b"
+      }, 
+      "id": {
+        "S": "cb74bb2b-e062-40cb-b70a-7f55e946f50f"
+      }, 
+      "createdAt": {
+        "N": "1458723665536"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "d45ec15c-988f-47ec-b0b9-842d7deefa88"
+      }, 
+      "userId": {
+        "S": "be878ad8-b15c-4dd4-b30e-f7dbdbdb18e8"
+      }, 
+      "id": {
+        "S": "51c68af5-50cc-43ff-bde6-bfc21947995b"
+      }, 
+      "createdAt": {
+        "N": "1458556165327"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "92173a2e-3207-471e-bc1c-766e6237092a"
+      }, 
+      "createdAt": {
+        "N": "1458059279742"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "f22478f2-c34d-4378-876a-dde28f9495a2"
+      }, 
+      "id": {
+        "S": "2e931094-fbd3-440d-a6a6-776e715109bf"
+      }, 
+      "createdAt": {
+        "N": "1458723659132"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "77000a83-ae38-465b-a8de-ca9d1ed37830"
+      }, 
+      "id": {
+        "S": "be7b6ed4-d720-4b46-ae1f-58ae32ea8cc2"
+      }, 
+      "createdAt": {
+        "N": "1457968244287"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "eeaa7ac1-517b-4f77-bbae-421f5706c892"
+      }, 
+      "id": {
+        "S": "2488e1e9-9770-45a0-bf95-b23bc0f75fdd"
+      }, 
+      "createdAt": {
+        "N": "1458555351973"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "userId": {
+        "S": "40c37c65-9189-4b4d-96cd-198c5908ea42"
+      }, 
+      "id": {
+        "S": "7114bd45-9bc6-4e39-90ed-224b7e0d2aaf"
+      }, 
+      "createdAt": {
+        "N": "1459244333398"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "d7732d10-dbc1-4a7d-940d-978b19aabef1"
+      }, 
+      "id": {
+        "S": "065685d5-39df-48e4-a588-3fe0374f79d8"
+      }, 
+      "createdAt": {
+        "N": "1459087232591"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "98f2d9a8-e8de-4a58-b2f1-36f3d2d44333"
+      }, 
+      "userId": {
+        "S": "5b63a8b2-2eb5-458b-a005-4497287e7223"
+      }, 
+      "id": {
+        "S": "9f7dbc91-d07c-4e18-b3ba-e540edf24442"
+      }, 
+      "createdAt": {
+        "N": "1458222481126"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "userId": {
+        "S": "6adbf41a-7afe-46b9-9d05-b773cb3b67db"
+      }, 
+      "id": {
+        "S": "908da4a8-551f-432a-802c-6ec33b98b104"
+      }, 
+      "createdAt": {
+        "N": "1457607628520"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "b2c78e14-6231-4df0-b2a6-92690f842aef"
+      }, 
+      "id": {
+        "S": "b01bd215-211d-4b9f-9221-3ab73e6da785"
+      }, 
+      "createdAt": {
+        "N": "1457631995015"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "userId": {
+        "S": "d645be0d-928f-4b13-8de7-3c627349f54e"
+      }, 
+      "id": {
+        "S": "d2250e92-39a9-40ea-860c-8a1468c93c89"
+      }, 
+      "createdAt": {
+        "N": "1459087228458"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "userId": {
+        "S": "40c37c65-9189-4b4d-96cd-198c5908ea42"
+      }, 
+      "id": {
+        "S": "77824637-a457-4534-a6f4-f38b695eb0c2"
+      }, 
+      "createdAt": {
+        "N": "1459443456379"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "512868e8-12ff-400f-8fa1-1b33a5201eeb"
+      }, 
+      "id": {
+        "S": "207bd914-46d5-4ec7-817c-c86c5abbc7bd"
+      }, 
+      "createdAt": {
+        "N": "1458555331485"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "cd417708-deaa-4cf9-8989-4bcb59bab67b"
+      }, 
+      "id": {
+        "S": "39099b3e-aacb-4086-bfb6-3684a9476c24"
+      }, 
+      "createdAt": {
+        "N": "1458723664286"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "id": {
+        "S": "5f6201a5-761f-4674-8506-07e08ff365fe"
+      }, 
+      "createdAt": {
+        "N": "1458061628471"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3147e05e-e838-46dd-beb6-983b056e5660"
+      }, 
+      "userId": {
+        "S": "d640a73f-fc90-4f5a-bf06-a0136bd8d052"
+      }, 
+      "id": {
+        "S": "a4c97871-11ed-4fe4-a33d-f9a437d06813"
+      }, 
+      "createdAt": {
+        "N": "1458723663286"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "ab241626-cdd9-4750-a2b7-8e0dd2a40288"
+      }, 
+      "userId": {
+        "S": "f08b0795-21e1-48b4-ba7f-c221468be272"
+      }, 
+      "id": {
+        "S": "e4629a47-1e35-465b-86c6-731bb1f45454"
+      }, 
+      "createdAt": {
+        "N": "1458555353887"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0de85978-80ed-4d04-9c6f-28be4ee59633"
+      }, 
+      "userId": {
+        "S": "b0810ef4-4440-407f-978c-6346e0c86209"
+      }, 
+      "id": {
+        "S": "4e2d53b9-ff5e-41fd-ac54-bfa10a8fae4a"
+      }, 
+      "createdAt": {
+        "N": "1458222500841"
+      }
+    }
+  ], 
+  "ScannedCount": 289
+}

@@ -1,0 +1,48 @@
+{
+  "Count": 3, 
+  "Items": [
+    {
+      "duration": {
+        "N": "86400000"
+      }, 
+      "status": {
+        "S": "InProgress"
+      }, 
+      "id": {
+        "S": "5de65abc-481e-4efe-a0c6-7d1eb104c04a"
+      }, 
+      "createdAt": {
+        "N": "1459861233546"
+      }
+    }, 
+    {
+      "duration": {
+        "N": "86400000"
+      }, 
+      "status": {
+        "S": "InProgress"
+      }, 
+      "id": {
+        "S": "97c7711d-3825-4fab-84c0-162881f9785b"
+      }, 
+      "createdAt": {
+        "N": "1459851704670"
+      }
+    }, 
+    {
+      "duration": {
+        "N": "86400000"
+      }, 
+      "status": {
+        "S": "InProgress"
+      }, 
+      "id": {
+        "S": "96fe07dd-2af8-4d7f-8d84-f580c97a1e53"
+      }, 
+      "createdAt": {
+        "N": "1459951501299"
+      }
+    }
+  ], 
+  "ScannedCount": 3
+}

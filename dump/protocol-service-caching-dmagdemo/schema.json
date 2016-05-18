@@ -1,0 +1,27 @@
+{
+  "Table": {
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-caching-dmagdemo", 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "type", 
+        "AttributeType": "S"
+      }
+    ], 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 1, 
+      "ReadCapacityUnits": 1
+    }, 
+    "TableSizeBytes": 39, 
+    "TableName": "protocol-service-caching-dmagdemo", 
+    "TableStatus": "ACTIVE", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "type"
+      }
+    ], 
+    "ItemCount": 1, 
+    "CreationDateTime": 1459337681.555
+  }
+}

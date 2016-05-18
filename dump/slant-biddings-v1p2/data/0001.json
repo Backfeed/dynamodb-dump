@@ -1,0 +1,17 @@
+{
+  "Count": 1, 
+  "Items": [
+    {
+      "status": {
+        "S": "InProgress"
+      }, 
+      "id": {
+        "S": "dc596e5b-4a21-4e22-a959-9fc4fe2574d1"
+      }, 
+      "createdAt": {
+        "N": "1454523764531"
+      }
+    }
+  ], 
+  "ScannedCount": 1
+}

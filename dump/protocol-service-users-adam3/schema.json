@@ -1,0 +1,33 @@
+{
+  "Table": {
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-users-adam3", 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "id", 
+        "AttributeType": "S"
+      }
+    ], 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 1, 
+      "ReadCapacityUnits": 1
+    }, 
+    "TableSizeBytes": 440, 
+    "TableName": "protocol-service-users-adam3", 
+    "TableStatus": "ACTIVE", 
+    "StreamSpecification": {
+      "StreamViewType": "NEW_AND_OLD_IMAGES", 
+      "StreamEnabled": true
+    }, 
+    "LatestStreamLabel": "2016-03-29T17:25:35.084", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "id"
+      }
+    ], 
+    "ItemCount": 5, 
+    "CreationDateTime": 1459271121.509, 
+    "LatestStreamArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-users-adam3/stream/2016-03-29T17:25:35.084"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "Table": {
+    "GlobalSecondaryIndexes": [
+      {
+        "IndexSizeBytes": 320, 
+        "IndexName": "contributions-userId-createdAt", 
+        "Projection": {
+          "ProjectionType": "ALL"
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "userId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "createdAt"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-contributions-adam3/index/contributions-userId-createdAt", 
+        "ItemCount": 2
+      }, 
+      {
+        "IndexSizeBytes": 320, 
+        "IndexName": "contributions-biddingId-createdAt", 
+        "Projection": {
+          "ProjectionType": "ALL"
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "biddingId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "createdAt"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-contributions-adam3/index/contributions-biddingId-createdAt", 
+        "ItemCount": 2
+      }
+    ], 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "biddingId", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "createdAt", 
+        "AttributeType": "N"
+      }, 
+      {
+        "AttributeName": "id", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "userId", 
+        "AttributeType": "S"
+      }
+    ], 
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-contributions-adam3", 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 3, 
+      "ReadCapacityUnits": 3
+    }, 
+    "TableSizeBytes": 320, 
+    "TableName": "protocol-service-contributions-adam3", 
+    "TableStatus": "ACTIVE", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "id"
+      }
+    ], 
+    "ItemCount": 2, 
+    "CreationDateTime": 1459271118.687
+  }
+}

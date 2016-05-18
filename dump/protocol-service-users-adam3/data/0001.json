@@ -1,0 +1,91 @@
+{
+  "Count": 5, 
+  "Items": [
+    {
+      "tokens": {
+        "N": "49"
+      }, 
+      "biddingCount": {
+        "N": "0"
+      }, 
+      "reputation": {
+        "N": "20"
+      }, 
+      "id": {
+        "S": "87ee5aae-c2d0-40d3-a781-dbbc3827e503"
+      }, 
+      "createdAt": {
+        "N": "1459780001482"
+      }
+    }, 
+    {
+      "tokens": {
+        "N": "49"
+      }, 
+      "biddingCount": {
+        "N": "0"
+      }, 
+      "reputation": {
+        "N": "20"
+      }, 
+      "id": {
+        "S": "ef5f9098-62bc-4fed-8625-f41d62e6d8f9"
+      }, 
+      "createdAt": {
+        "N": "1459780001478"
+      }
+    }, 
+    {
+      "tokens": {
+        "N": "50"
+      }, 
+      "biddingCount": {
+        "N": "0"
+      }, 
+      "reputation": {
+        "N": "20"
+      }, 
+      "id": {
+        "S": "588e9073-7d05-4a8c-aaa2-a5b4c0ebbf8c"
+      }, 
+      "createdAt": {
+        "N": "1459780001492"
+      }
+    }, 
+    {
+      "tokens": {
+        "N": "50"
+      }, 
+      "biddingCount": {
+        "N": "0"
+      }, 
+      "reputation": {
+        "N": "20"
+      }, 
+      "id": {
+        "S": "a2519d4c-27c3-42fb-9422-29a5c446ebd8"
+      }, 
+      "createdAt": {
+        "N": "1459780001488"
+      }
+    }, 
+    {
+      "tokens": {
+        "N": "50"
+      }, 
+      "biddingCount": {
+        "N": "0"
+      }, 
+      "reputation": {
+        "N": "20"
+      }, 
+      "id": {
+        "S": "2519eaf2-97ca-4514-8f0c-6fa0cceeb121"
+      }, 
+      "createdAt": {
+        "N": "1459780001473"
+      }
+    }
+  ], 
+  "ScannedCount": 5
+}

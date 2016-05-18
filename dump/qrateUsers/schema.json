@@ -1,0 +1,27 @@
+{
+  "Table": {
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/qrateUsers", 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "email", 
+        "AttributeType": "S"
+      }
+    ], 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 5, 
+      "ReadCapacityUnits": 5
+    }, 
+    "TableSizeBytes": 1651, 
+    "TableName": "qrateUsers", 
+    "TableStatus": "ACTIVE", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "email"
+      }
+    ], 
+    "ItemCount": 3, 
+    "CreationDateTime": 1450872437.304
+  }
+}

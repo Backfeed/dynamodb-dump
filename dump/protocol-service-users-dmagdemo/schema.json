@@ -1,0 +1,33 @@
+{
+  "Table": {
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-users-dmagdemo", 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "id", 
+        "AttributeType": "S"
+      }
+    ], 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 1, 
+      "ReadCapacityUnits": 1
+    }, 
+    "TableSizeBytes": 7196, 
+    "TableName": "protocol-service-users-dmagdemo", 
+    "TableStatus": "ACTIVE", 
+    "StreamSpecification": {
+      "StreamViewType": "NEW_AND_OLD_IMAGES", 
+      "StreamEnabled": true
+    }, 
+    "LatestStreamLabel": "2016-03-30T12:02:11.528", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "id"
+      }
+    ], 
+    "ItemCount": 81, 
+    "CreationDateTime": 1459337686.816, 
+    "LatestStreamArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-users-dmagdemo/stream/2016-03-30T12:02:11.528"
+  }
+}

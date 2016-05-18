@@ -1,0 +1,34 @@
+{
+  "Count": 2, 
+  "Items": [
+    {
+      "duration": {
+        "N": "86400000"
+      }, 
+      "status": {
+        "S": "InProgress"
+      }, 
+      "id": {
+        "S": "461b6b6d-b63b-477d-bbcb-e8eb93c6c44b"
+      }, 
+      "createdAt": {
+        "N": "1459853378917"
+      }
+    }, 
+    {
+      "duration": {
+        "N": "86400000"
+      }, 
+      "status": {
+        "S": "InProgress"
+      }, 
+      "id": {
+        "S": "6d459693-81c8-407a-bc71-259c7b2f8568"
+      }, 
+      "createdAt": {
+        "N": "1459847821752"
+      }
+    }
+  ], 
+  "ScannedCount": 2
+}

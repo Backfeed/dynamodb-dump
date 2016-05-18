@@ -1,0 +1,35 @@
+{
+  "Table": {
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/v100_graphindex", 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "hk", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "rk", 
+        "AttributeType": "S"
+      }
+    ], 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 100, 
+      "ReadCapacityUnits": 100
+    }, 
+    "TableSizeBytes": 1667, 
+    "TableName": "v100_graphindex", 
+    "TableStatus": "ACTIVE", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "hk"
+      }, 
+      {
+        "KeyType": "RANGE", 
+        "AttributeName": "rk"
+      }
+    ], 
+    "ItemCount": 58, 
+    "CreationDateTime": 1450612919.255
+  }
+}

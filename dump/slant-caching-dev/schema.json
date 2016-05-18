@@ -1,0 +1,33 @@
+{
+  "Table": {
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/slant-caching-dev", 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "type", 
+        "AttributeType": "S"
+      }
+    ], 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 1, 
+      "ReadCapacityUnits": 1
+    }, 
+    "TableSizeBytes": 33, 
+    "TableName": "slant-caching-dev", 
+    "TableStatus": "ACTIVE", 
+    "StreamSpecification": {
+      "StreamViewType": "NEW_AND_OLD_IMAGES", 
+      "StreamEnabled": true
+    }, 
+    "LatestStreamLabel": "2016-01-07T15:01:17.574", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "type"
+      }
+    ], 
+    "ItemCount": 1, 
+    "CreationDateTime": 1452097262.803, 
+    "LatestStreamArn": "arn:aws:dynamodb:us-east-1:051563103010:table/slant-caching-dev/stream/2016-01-07T15:01:17.574"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "Count": 6, 
+  "Items": [
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "12068915-631f-44ef-a715-6776e81a8f85"
+      }, 
+      "userId": {
+        "S": "9a3e21db-bb62-41fe-a8c5-f82b0eb83e4d"
+      }, 
+      "id": {
+        "S": "9d828b9f-d630-4a4f-b3be-f56701d125f8"
+      }, 
+      "createdAt": {
+        "N": "1460627892356"
+      }
+    }, 
+    {
+      "value": {
+        "N": "0"
+      }, 
+      "contributionId": {
+        "S": "77b31525-053a-4f9d-8ce9-e23eaa2f6fce"
+      }, 
+      "userId": {
+        "S": "9a3e21db-bb62-41fe-a8c5-f82b0eb83e4d"
+      }, 
+      "id": {
+        "S": "886484b2-6f85-43cb-b711-878cbc138cf2"
+      }, 
+      "createdAt": {
+        "N": "1460295633516"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "e9a66a60-b505-4c29-a272-8e9414183bbd"
+      }, 
+      "userId": {
+        "S": "875ad9b7-892e-4324-b863-0adf76e7bf75"
+      }, 
+      "id": {
+        "S": "4da3f7f0-0880-43ef-b8ba-a454a243b644"
+      }, 
+      "createdAt": {
+        "N": "1460559048384"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "f7f003d9-8777-4da6-b525-348cc5e5440a"
+      }, 
+      "userId": {
+        "S": "f8727a2e-121c-4614-b64a-50849ef57403"
+      }, 
+      "id": {
+        "S": "a235d637-0964-4c7d-b1a9-6d4c2ac0d6a0"
+      }, 
+      "createdAt": {
+        "N": "1461072999243"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "b7866260-16e3-431f-b9f6-34861c3054e1"
+      }, 
+      "userId": {
+        "S": "9a3e21db-bb62-41fe-a8c5-f82b0eb83e4d"
+      }, 
+      "id": {
+        "S": "f81adfff-6c01-4531-bb69-855f238def77"
+      }, 
+      "createdAt": {
+        "N": "1460297526243"
+      }
+    }, 
+    {
+      "value": {
+        "N": "1"
+      }, 
+      "contributionId": {
+        "S": "6965e1da-a4e7-4641-b8c5-9ee2aa0e463a"
+      }, 
+      "userId": {
+        "S": "875ad9b7-892e-4324-b863-0adf76e7bf75"
+      }, 
+      "id": {
+        "S": "c084973b-892e-48c7-ad2a-d578d251dafb"
+      }, 
+      "createdAt": {
+        "N": "1459958503407"
+      }
+    }
+  ], 
+  "ScannedCount": 6
+}

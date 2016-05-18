@@ -1,0 +1,186 @@
+{
+  "Count": 9, 
+  "Items": [
+    {
+      "biddingId": {
+        "S": "dc596e5b-4a21-4e22-a959-9fc4fe2574d1"
+      }, 
+      "contributionId": {
+        "S": "f166e639-1cde-4577-9612-0de700b75b7d"
+      }, 
+      "userId": {
+        "S": "3332740e-b0e7-472e-9ee9-9c882646a022"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "6d554dfe-5349-41c6-a63b-c055646b0abe"
+      }, 
+      "createdAt": {
+        "N": "1454523768304"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "dc596e5b-4a21-4e22-a959-9fc4fe2574d1"
+      }, 
+      "contributionId": {
+        "S": "f166e639-1cde-4577-9612-0de700b75b7d"
+      }, 
+      "userId": {
+        "S": "9c2264b8-13d4-4a17-b21b-d17656e25560"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "64f3735c-a87e-4fc2-9f81-f3785a2a6dd8"
+      }, 
+      "createdAt": {
+        "N": "1454523777127"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "dc596e5b-4a21-4e22-a959-9fc4fe2574d1"
+      }, 
+      "contributionId": {
+        "S": "4c82893e-8bd2-4620-ae6f-e9b93da02f71"
+      }, 
+      "userId": {
+        "S": "3332740e-b0e7-472e-9ee9-9c882646a022"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "8e5ac2d5-55f6-47cb-8ac9-20bc175612ae"
+      }, 
+      "createdAt": {
+        "N": "1454523789231"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "dc596e5b-4a21-4e22-a959-9fc4fe2574d1"
+      }, 
+      "contributionId": {
+        "S": "f166e639-1cde-4577-9612-0de700b75b7d"
+      }, 
+      "userId": {
+        "S": "2b85ad67-89e6-4364-b57f-5f02b68276ad"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "f835a1ca-2771-41da-aef4-21286f1b86e0"
+      }, 
+      "createdAt": {
+        "N": "1454523771178"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "dc596e5b-4a21-4e22-a959-9fc4fe2574d1"
+      }, 
+      "contributionId": {
+        "S": "f166e639-1cde-4577-9612-0de700b75b7d"
+      }, 
+      "userId": {
+        "S": "c61d8f94-f36c-4a5c-a882-afa5ee075960"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "45259d0a-bf12-49da-8650-040385f62413"
+      }, 
+      "createdAt": {
+        "N": "1454523782943"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "dc596e5b-4a21-4e22-a959-9fc4fe2574d1"
+      }, 
+      "contributionId": {
+        "S": "f166e639-1cde-4577-9612-0de700b75b7d"
+      }, 
+      "userId": {
+        "S": "f5c8b6d0-9360-4500-bdd4-1e3e461fb2d8"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "9f1bbdbd-3c48-4397-858e-e0aabd540444"
+      }, 
+      "createdAt": {
+        "N": "1454523780104"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "dc596e5b-4a21-4e22-a959-9fc4fe2574d1"
+      }, 
+      "contributionId": {
+        "S": "4c82893e-8bd2-4620-ae6f-e9b93da02f71"
+      }, 
+      "userId": {
+        "S": "9c2264b8-13d4-4a17-b21b-d17656e25560"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "9fae606c-111e-4d7f-af2b-01b36681a353"
+      }, 
+      "createdAt": {
+        "N": "1454523795100"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "dc596e5b-4a21-4e22-a959-9fc4fe2574d1"
+      }, 
+      "contributionId": {
+        "S": "4c82893e-8bd2-4620-ae6f-e9b93da02f71"
+      }, 
+      "userId": {
+        "S": "f5c8b6d0-9360-4500-bdd4-1e3e461fb2d8"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "0b4288f7-5486-48e8-a71c-4b42f03965c9"
+      }, 
+      "createdAt": {
+        "N": "1454523786176"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "dc596e5b-4a21-4e22-a959-9fc4fe2574d1"
+      }, 
+      "contributionId": {
+        "S": "4c82893e-8bd2-4620-ae6f-e9b93da02f71"
+      }, 
+      "userId": {
+        "S": "2b85ad67-89e6-4364-b57f-5f02b68276ad"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "0e3c2f41-efa9-45d4-b061-e70667d9f7ce"
+      }, 
+      "createdAt": {
+        "N": "1454523792147"
+      }
+    }
+  ], 
+  "ScannedCount": 9
+}

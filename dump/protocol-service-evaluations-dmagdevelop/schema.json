@@ -1,0 +1,182 @@
+{
+  "Table": {
+    "GlobalSecondaryIndexes": [
+      {
+        "IndexSizeBytes": 0, 
+        "IndexName": "evaluations-contributionId-createdAt", 
+        "Projection": {
+          "ProjectionType": "ALL"
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "contributionId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "createdAt"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-evaluations-dmagdevelop/index/evaluations-contributionId-createdAt", 
+        "ItemCount": 0
+      }, 
+      {
+        "IndexSizeBytes": 0, 
+        "IndexName": "evaluations-biddingId-value", 
+        "Projection": {
+          "ProjectionType": "INCLUDE", 
+          "NonKeyAttributes": [
+            "contributionId", 
+            "userId"
+          ]
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "biddingId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "value"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-evaluations-dmagdevelop/index/evaluations-biddingId-value", 
+        "ItemCount": 0
+      }, 
+      {
+        "IndexSizeBytes": 0, 
+        "IndexName": "evaluations-contributionId-value", 
+        "Projection": {
+          "ProjectionType": "INCLUDE", 
+          "NonKeyAttributes": [
+            "contributionId", 
+            "userId"
+          ]
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "contributionId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "value"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-evaluations-dmagdevelop/index/evaluations-contributionId-value", 
+        "ItemCount": 0
+      }, 
+      {
+        "IndexSizeBytes": 0, 
+        "IndexName": "evaluations-userId-createdAt", 
+        "Projection": {
+          "ProjectionType": "ALL"
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "userId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "createdAt"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-evaluations-dmagdevelop/index/evaluations-userId-createdAt", 
+        "ItemCount": 0
+      }, 
+      {
+        "IndexSizeBytes": 0, 
+        "IndexName": "evaluations-biddingId-userId", 
+        "Projection": {
+          "ProjectionType": "ALL"
+        }, 
+        "IndexStatus": "ACTIVE", 
+        "ProvisionedThroughput": {
+          "NumberOfDecreasesToday": 0, 
+          "WriteCapacityUnits": 1, 
+          "ReadCapacityUnits": 1
+        }, 
+        "KeySchema": [
+          {
+            "KeyType": "HASH", 
+            "AttributeName": "biddingId"
+          }, 
+          {
+            "KeyType": "RANGE", 
+            "AttributeName": "userId"
+          }
+        ], 
+        "IndexArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-evaluations-dmagdevelop/index/evaluations-biddingId-userId", 
+        "ItemCount": 0
+      }
+    ], 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "biddingId", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "contributionId", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "createdAt", 
+        "AttributeType": "N"
+      }, 
+      {
+        "AttributeName": "id", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "userId", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "value", 
+        "AttributeType": "N"
+      }
+    ], 
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/protocol-service-evaluations-dmagdevelop", 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 5, 
+      "ReadCapacityUnits": 5
+    }, 
+    "TableSizeBytes": 0, 
+    "TableName": "protocol-service-evaluations-dmagdevelop", 
+    "TableStatus": "ACTIVE", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "id"
+      }
+    ], 
+    "ItemCount": 0, 
+    "CreationDateTime": 1459782979.35
+  }
+}

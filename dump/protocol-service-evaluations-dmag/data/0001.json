@@ -1,0 +1,646 @@
+{
+  "Count": 32, 
+  "Items": [
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "contributionId": {
+        "S": "b4d2ecca-1e1e-493f-ba02-f7ec18358417"
+      }, 
+      "userId": {
+        "S": "10a23ed4-397c-4320-b6d4-de164839fc6f"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "1ebe4a29-3b84-49a9-9e71-b801a1d359dd"
+      }, 
+      "createdAt": {
+        "N": "1459443560386"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "contributionId": {
+        "S": "f3dd4dd9-0a02-49ce-8258-08283324d418"
+      }, 
+      "userId": {
+        "S": "10a23ed4-397c-4320-b6d4-de164839fc6f"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "e8dfc535-4a99-44ac-afc3-01a99b18cbb6"
+      }, 
+      "createdAt": {
+        "N": "1458639989332"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "contributionId": {
+        "S": "879ab1b2-e21d-4b29-a77d-eaf8847aee9f"
+      }, 
+      "userId": {
+        "S": "40c37c65-9189-4b4d-96cd-198c5908ea42"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "dfe37a9e-3256-4213-92bc-544e23863b96"
+      }, 
+      "createdAt": {
+        "N": "1457606586886"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "bc7ffe47-74b5-41f6-9c0b-deaea89fad8f"
+      }, 
+      "contributionId": {
+        "S": "58ad9b0b-ad0c-4488-a5a4-51c46035e3ba"
+      }, 
+      "userId": {
+        "S": "92b5bf9e-a177-4f53-b6fa-eecbff2a40cf"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "6a054595-4d3f-4969-ab4a-858b92e508d0"
+      }, 
+      "createdAt": {
+        "N": "1457120574855"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "contributionId": {
+        "S": "eceb548c-e2e7-4677-b6c9-bef36ce424ec"
+      }, 
+      "userId": {
+        "S": "10a23ed4-397c-4320-b6d4-de164839fc6f"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "226e1ca8-b434-45bd-b4c6-f8ec63f34595"
+      }, 
+      "createdAt": {
+        "N": "1457628737304"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "contributionId": {
+        "S": "0a7fea77-1423-40c7-a278-8a1ba813f500"
+      }, 
+      "userId": {
+        "S": "10a23ed4-397c-4320-b6d4-de164839fc6f"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "cf991228-1b88-4e0d-89eb-bb140b7ae94a"
+      }, 
+      "createdAt": {
+        "N": "1457628229929"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "contributionId": {
+        "S": "1eab3444-ca0b-4172-bfb2-23d89ef6d59b"
+      }, 
+      "userId": {
+        "S": "2611ecd6-5d3e-42d7-a270-6968275fa73d"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "625f68ea-8aea-4698-94c1-63dad7b470d8"
+      }, 
+      "createdAt": {
+        "N": "1459267106655"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "contributionId": {
+        "S": "879ab1b2-e21d-4b29-a77d-eaf8847aee9f"
+      }, 
+      "userId": {
+        "S": "40c37c65-9189-4b4d-96cd-198c5908ea42"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "d34e0545-59a8-4565-8d28-6525b76908c0"
+      }, 
+      "createdAt": {
+        "N": "1457606586883"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "74ba4294-3530-46d1-a68e-59bcdb7da5c7"
+      }, 
+      "contributionId": {
+        "S": "7741b1c6-dbf4-4351-8c06-787cee331663"
+      }, 
+      "userId": {
+        "S": "e149e5dd-a905-45bd-afa9-a63a4228fed7"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "2490b76b-ea8d-4873-8774-b6fa92b7abcd"
+      }, 
+      "createdAt": {
+        "N": "1459416947998"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "contributionId": {
+        "S": "e41306b8-d9d0-48b8-95c5-34fbb5108c8d"
+      }, 
+      "userId": {
+        "S": "10a23ed4-397c-4320-b6d4-de164839fc6f"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "b872897e-1cbd-4e89-b95d-4df668853a16"
+      }, 
+      "createdAt": {
+        "N": "1457627016078"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "contributionId": {
+        "S": "6e1dc750-b51f-4709-8cd8-2033df284efb"
+      }, 
+      "userId": {
+        "S": "10a23ed4-397c-4320-b6d4-de164839fc6f"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "009455c3-2f9a-4793-9ac0-af7eeb415462"
+      }, 
+      "createdAt": {
+        "N": "1457627539925"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "contributionId": {
+        "S": "1e802589-1ad6-42df-845c-d477601f55ec"
+      }, 
+      "userId": {
+        "S": "10a23ed4-397c-4320-b6d4-de164839fc6f"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "3197a052-a13d-4561-8296-812bb9a8fac4"
+      }, 
+      "createdAt": {
+        "N": "1457628856645"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "contributionId": {
+        "S": "7114bd45-9bc6-4e39-90ed-224b7e0d2aaf"
+      }, 
+      "userId": {
+        "S": "10a23ed4-397c-4320-b6d4-de164839fc6f"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "eacfc7c6-3f8e-44cd-bdd7-3b81ddbdc2d3"
+      }, 
+      "createdAt": {
+        "N": "1459244931154"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "contributionId": {
+        "S": "ac315992-7037-496d-9b43-c622f4bd4354"
+      }, 
+      "userId": {
+        "S": "40c37c65-9189-4b4d-96cd-198c5908ea42"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "6cbb8e60-aab6-4e43-8a87-b0700c35a48e"
+      }, 
+      "createdAt": {
+        "N": "1457606703310"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "512e0724-4dc9-46a3-96e6-9e9b5c25a8cc"
+      }, 
+      "contributionId": {
+        "S": "7bf498f6-3d3c-45d6-9626-d47a5d8168ca"
+      }, 
+      "userId": {
+        "S": "5f5d58b4-9e02-4224-a5f2-94f651ad57ab"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "a9832e57-1547-46b9-9eb2-7f7b019dc7b7"
+      }, 
+      "createdAt": {
+        "N": "1459416977895"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "bc7ffe47-74b5-41f6-9c0b-deaea89fad8f"
+      }, 
+      "contributionId": {
+        "S": "b77c18b8-42c2-48d3-97be-bc9500ee5ae6"
+      }, 
+      "userId": {
+        "S": "25dc3071-426e-429a-bd34-62070aaf9d87"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "96100544-7d0f-403a-b058-1aecb5dab361"
+      }, 
+      "createdAt": {
+        "N": "1457120578466"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "bc7ffe47-74b5-41f6-9c0b-deaea89fad8f"
+      }, 
+      "contributionId": {
+        "S": "b77c18b8-42c2-48d3-97be-bc9500ee5ae6"
+      }, 
+      "userId": {
+        "S": "ef2fc478-3879-46fe-8b2e-7a0616b89be7"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "5fe30814-18d7-4a9a-9d82-8b0a9fbd662b"
+      }, 
+      "createdAt": {
+        "N": "1457120579726"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "bc7ffe47-74b5-41f6-9c0b-deaea89fad8f"
+      }, 
+      "contributionId": {
+        "S": "58ad9b0b-ad0c-4488-a5a4-51c46035e3ba"
+      }, 
+      "userId": {
+        "S": "ef2fc478-3879-46fe-8b2e-7a0616b89be7"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "1a3d5cc5-64d9-4be6-a063-cac37b1616b5"
+      }, 
+      "createdAt": {
+        "N": "1457120567070"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "bc7ffe47-74b5-41f6-9c0b-deaea89fad8f"
+      }, 
+      "contributionId": {
+        "S": "58ad9b0b-ad0c-4488-a5a4-51c46035e3ba"
+      }, 
+      "userId": {
+        "S": "25dc3071-426e-429a-bd34-62070aaf9d87"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "c8821967-f02d-4731-b601-9ab46d75400d"
+      }, 
+      "createdAt": {
+        "N": "1457120565513"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "74ba4294-3530-46d1-a68e-59bcdb7da5c7"
+      }, 
+      "contributionId": {
+        "S": "486df65a-e2a9-408c-a5c3-a28b34a10e02"
+      }, 
+      "userId": {
+        "S": "e149e5dd-a905-45bd-afa9-a63a4228fed7"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "1c5c7e37-84a5-478b-8e3f-f383d0ff08c9"
+      }, 
+      "createdAt": {
+        "N": "1459265365168"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "contributionId": {
+        "S": "0a7fea77-1423-40c7-a278-8a1ba813f500"
+      }, 
+      "userId": {
+        "S": "40c37c65-9189-4b4d-96cd-198c5908ea42"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "f7142a5c-680d-4e67-93ae-d56b99967ef9"
+      }, 
+      "createdAt": {
+        "N": "1457624401030"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "3ffecc49-7467-431f-aabf-aefeba5403b1"
+      }, 
+      "contributionId": {
+        "S": "eea637f6-9244-4fd5-a4fb-d992fecce01c"
+      }, 
+      "userId": {
+        "S": "4c3e532c-9367-4266-8b5d-5ddf71228a95"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "29c9f8fb-67bd-46b9-8114-ee88ae8e7e3b"
+      }, 
+      "createdAt": {
+        "N": "1458062310340"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "contributionId": {
+        "S": "ad8895ed-b5dd-4d85-ada9-c0d940be9483"
+      }, 
+      "userId": {
+        "S": "10a23ed4-397c-4320-b6d4-de164839fc6f"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "2d7c25e1-0b07-40a7-bda3-fb75138ba538"
+      }, 
+      "createdAt": {
+        "N": "1457964896336"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "bc7ffe47-74b5-41f6-9c0b-deaea89fad8f"
+      }, 
+      "contributionId": {
+        "S": "58ad9b0b-ad0c-4488-a5a4-51c46035e3ba"
+      }, 
+      "userId": {
+        "S": "a3877d14-c0a6-4e1b-9b9c-e0141120a090"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "033f2c6a-6f6d-49a9-a2ae-5d21c843a980"
+      }, 
+      "createdAt": {
+        "N": "1457120572203"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "contributionId": {
+        "S": "e41306b8-d9d0-48b8-95c5-34fbb5108c8d"
+      }, 
+      "userId": {
+        "S": "40c37c65-9189-4b4d-96cd-198c5908ea42"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "4ebf3608-4bd6-48dd-a995-a57eaed875ba"
+      }, 
+      "createdAt": {
+        "N": "1457626896155"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "contributionId": {
+        "S": "879ab1b2-e21d-4b29-a77d-eaf8847aee9f"
+      }, 
+      "userId": {
+        "S": "40c37c65-9189-4b4d-96cd-198c5908ea42"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "fe62c34c-aebf-4938-a7ac-773dd477cd32"
+      }, 
+      "createdAt": {
+        "N": "1457606586863"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "contributionId": {
+        "S": "ac315992-7037-496d-9b43-c622f4bd4354"
+      }, 
+      "userId": {
+        "S": "40c37c65-9189-4b4d-96cd-198c5908ea42"
+      }, 
+      "value": {
+        "N": "0"
+      }, 
+      "id": {
+        "S": "6037bf3d-f6e8-4129-8b39-ac70c10e9cc8"
+      }, 
+      "createdAt": {
+        "N": "1457606703318"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "277ea189-14d7-421b-8cb7-eb949ccbebf2"
+      }, 
+      "contributionId": {
+        "S": "eceb548c-e2e7-4677-b6c9-bef36ce424ec"
+      }, 
+      "userId": {
+        "S": "6adbf41a-7afe-46b9-9d05-b773cb3b67db"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "4f18e8a7-55f3-45b2-a486-0b5262e4aee0"
+      }, 
+      "createdAt": {
+        "N": "1457628771297"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "bc7ffe47-74b5-41f6-9c0b-deaea89fad8f"
+      }, 
+      "contributionId": {
+        "S": "b77c18b8-42c2-48d3-97be-bc9500ee5ae6"
+      }, 
+      "userId": {
+        "S": "a3877d14-c0a6-4e1b-9b9c-e0141120a090"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "643beba7-7ca5-4437-9d14-fe95da98a433"
+      }, 
+      "createdAt": {
+        "N": "1457120577205"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "bc7ffe47-74b5-41f6-9c0b-deaea89fad8f"
+      }, 
+      "contributionId": {
+        "S": "58ad9b0b-ad0c-4488-a5a4-51c46035e3ba"
+      }, 
+      "userId": {
+        "S": "26658f74-3ae6-4342-ace6-359e456a8041"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "28340018-1df8-484a-93d9-3d023e538d39"
+      }, 
+      "createdAt": {
+        "N": "1457120570372"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "bc7ffe47-74b5-41f6-9c0b-deaea89fad8f"
+      }, 
+      "contributionId": {
+        "S": "b77c18b8-42c2-48d3-97be-bc9500ee5ae6"
+      }, 
+      "userId": {
+        "S": "26658f74-3ae6-4342-ace6-359e456a8041"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "26698df9-e456-4fb7-8294-408f0f4f5273"
+      }, 
+      "createdAt": {
+        "N": "1457120581355"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "b2495c71-9e02-4e91-a94f-445a35ec7c4c"
+      }, 
+      "contributionId": {
+        "S": "ac315992-7037-496d-9b43-c622f4bd4354"
+      }, 
+      "userId": {
+        "S": "40c37c65-9189-4b4d-96cd-198c5908ea42"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "7fc213f0-4528-48f4-b90f-7598020a1569"
+      }, 
+      "createdAt": {
+        "N": "1457606703313"
+      }
+    }
+  ], 
+  "ScannedCount": 32
+}

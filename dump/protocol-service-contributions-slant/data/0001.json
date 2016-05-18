@@ -1,0 +1,20 @@
+{
+  "Count": 1, 
+  "Items": [
+    {
+      "biddingId": {
+        "S": "0e6c0163-354b-434c-b9a3-2f40b08a305b"
+      }, 
+      "userId": {
+        "S": "7e4a752a-c9cb-4ec4-a59d-94287f4b89f4"
+      }, 
+      "id": {
+        "S": "5cb41198-0d44-4641-a8c9-e28296dd7180"
+      }, 
+      "createdAt": {
+        "N": "1457444361759"
+      }
+    }
+  ], 
+  "ScannedCount": 1
+}

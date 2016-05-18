@@ -1,0 +1,66 @@
+{
+  "Count": 3, 
+  "Items": [
+    {
+      "biddingId": {
+        "S": "0e6c0163-354b-434c-b9a3-2f40b08a305b"
+      }, 
+      "contributionId": {
+        "S": "5cb41198-0d44-4641-a8c9-e28296dd7180"
+      }, 
+      "userId": {
+        "S": "3b5bb798-85f3-4def-a889-ed8503be01c9"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "bbb3cb4b-c540-4fc0-8543-70b8242a74b1"
+      }, 
+      "createdAt": {
+        "N": "1457444374976"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0e6c0163-354b-434c-b9a3-2f40b08a305b"
+      }, 
+      "contributionId": {
+        "S": "5cb41198-0d44-4641-a8c9-e28296dd7180"
+      }, 
+      "userId": {
+        "S": "7e4a752a-c9cb-4ec4-a59d-94287f4b89f4"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "2f73eaaf-9b3b-4c2d-8be7-75398b1a0223"
+      }, 
+      "createdAt": {
+        "N": "1457444365757"
+      }
+    }, 
+    {
+      "biddingId": {
+        "S": "0e6c0163-354b-434c-b9a3-2f40b08a305b"
+      }, 
+      "contributionId": {
+        "S": "5cb41198-0d44-4641-a8c9-e28296dd7180"
+      }, 
+      "userId": {
+        "S": "8f8a4dc7-c959-403c-8825-17d6de452e52"
+      }, 
+      "value": {
+        "N": "1"
+      }, 
+      "id": {
+        "S": "bce2c509-26d5-4947-aa86-d7891acc6517"
+      }, 
+      "createdAt": {
+        "N": "1457444370406"
+      }
+    }
+  ], 
+  "ScannedCount": 3
+}

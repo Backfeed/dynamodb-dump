@@ -1,0 +1,23 @@
+{
+  "Count": 1, 
+  "Items": [
+    {
+      "maxScore": {
+        "N": "0"
+      }, 
+      "biddingId": {
+        "S": "bf64b0fb-9027-44f6-bf97-e4066760d835"
+      }, 
+      "userId": {
+        "S": "3056b831-52c0-4587-9944-0c8c1288dae2"
+      }, 
+      "id": {
+        "S": "58d5276a-d9e5-4f98-bcc0-e5bf285a5dd4"
+      }, 
+      "createdAt": {
+        "N": "1459350833870"
+      }
+    }
+  ], 
+  "ScannedCount": 1
+}

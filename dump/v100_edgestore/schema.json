@@ -1,0 +1,35 @@
+{
+  "Table": {
+    "TableArn": "arn:aws:dynamodb:us-east-1:051563103010:table/v100_edgestore", 
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "hk", 
+        "AttributeType": "S"
+      }, 
+      {
+        "AttributeName": "rk", 
+        "AttributeType": "S"
+      }
+    ], 
+    "ProvisionedThroughput": {
+      "NumberOfDecreasesToday": 0, 
+      "WriteCapacityUnits": 100, 
+      "ReadCapacityUnits": 100
+    }, 
+    "TableSizeBytes": 11396, 
+    "TableName": "v100_edgestore", 
+    "TableStatus": "ACTIVE", 
+    "KeySchema": [
+      {
+        "KeyType": "HASH", 
+        "AttributeName": "hk"
+      }, 
+      {
+        "KeyType": "RANGE", 
+        "AttributeName": "rk"
+      }
+    ], 
+    "ItemCount": 305, 
+    "CreationDateTime": 1450612912.141
+  }
+}
